@@ -1,0 +1,717 @@
+Día	Mes	Año	Departamento	Municipio	Lugar de Ocurrencia	Tipo de Hecho	Tipo de Implicado (2)	Nº Víctimas	Combatiente	Población Civil	Fuente																									
+2	1	1988	Antioquia	Betulia	Corregimiento Altamira	Incursión	Guerrilla-EPL	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 1, Pág. 23																									
+3	1	1988	Antioquia	Betulia	Corregimiento Altamira	Incursión	Guerrilla No Identificada	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 20																									
+4	1	1988	Sucre	San Benito Abad	Las Tablitas	Emboscada	Guerrilla-EPL	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 23 Caso Repetido																									
+4	2	1988	Antioquia	Medellín		Combate	Policía Nacional-EPL	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 35																									
+9	2	1988	Cesar	Becerril		Incursión	Guerrilla-FARC	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 35 Caso Repetido 37																									
+10	2	1988	Tolima 	Ataco 	Vereda Campohermoso	Incursión	Guerrilla-FARC	3		3	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 35 Repetido en Página 37																									
+21	2	1988	Valle del Cauca	Trujillo		Combate	Policía Nacional-FARC	3	2	1	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 37																									
+13	3	1988	Putumayo	Valle del Guamuez	El Placer	Incursión	Guerrilla No Identificada	2	1	1	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 51																									
+15	3	1988	Norte de Santander	Pamplona / Chitagá	Puente Gómez	Emboscada	Guerrilla-ELN	10	9	1	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 51																									
+22	3	1988	Cauca	Caldono	IP Siberia	Incursión	CGSB	6	4	2	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 52																									
+29	3	1988	Nariño	El Rosario		Incursión	Guerrilla-FARC	2		2	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 56																									
+30	3	1988	Huila 	Garzón	San Antonio del Pescado	Incursión	Guerrilla-CGSB	7	4	3	Boletín Informativo Justicia y Paz, Vol. 1, N°1, Pág. 53																									
+1	4	1988	Santander	El Playón	Corregimiento de La Vega	Combate	Ejército Nacional-ELN	5	3	2	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 20																									
+1	4	1988	Antioquia	Apartadó		Combate	Policía Nacional-EPL	2	1	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 20																									
+5	4	1988	Antioquia	Remedios 	Corregimiento Santa Isabel	Combate	Guerrilla-ELN	7	6	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 20																									
+11	4	1988	La Guajira	Barrancas		Combate	Ejército Nacional-Guerrilla No Identificada	4	1	3	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 20																									
+19	4	1988	César	Chiriguaná	Corregimiento de La Sierra	Incursión	Guerrilla-ELN	3		3	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 21																									
+20	4	1988	Distrito Capital	Bogotá	Barrio Lucero Medio	Combate	Policía Nacional-Guerrilla No Identificada	2	1	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 21																									
+25	4	1988	César	Nuevo Colón		Incursión	Guerrilla-ELN	10		10	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 22																									
+26	5	1988	Antioquia	Medellín		Combate	Policía Nacional-EPL	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 42																									
+29	5	1988	Antioquia	Nueva Antioquia y San Pedro de Urabá		Combate	Ejercito Nacional-FARC y EPL	11	10	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 42																									
+10	6	1988	Norte de Santander	Teorama	Corregimiento Aserrío	Incursión	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 64																									
+14	6	1988	Antioquia	Medellín		Ataque a Objetivo Militar	Guerrilla-EPL	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 2, Pág. 64																									
+6	7	1988	Santander	San Vicente de Chucurí		Ataque a Objetivo Militar	Guerrilla-ELN	5		5	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 27																									
+12	7	1988	Antioquia	San Vicente		Incursión	Guerrilla-EPL	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 27																									
+14	7	1988	Cauca	La Sierra		Incursión	Guerrilla-FARC y M19	8	6	2	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 27																									
+8	8	1988	Antioquia	Medellín		Ataque a Objetivo Militar	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 52																									
+14	8	1988	Santander	El Carmen	Sitio El Centenario	Combate	Ejército Nacional-ELN	5	4	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 53																									
+24	8	1988	Córdoba	Tierralta	Corregimiento Saiza	Combate	Grupos Paramilitares- FARC y EPL	36	25	11	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 53																									
+8	9	1988	Magdalena	Santa Marta	Corregimiento de Minca 	Incursión	Guerrilla-FARC	5	4	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 79																									
+12	9	1988	Antioquia	Zaragoza		Incursión	Guerrilla-ELN	7	3	4	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 75																									
+13	9	1988	Cauca	El Tambo	IP La Uribe	Combate	Guerrilla-FARC	4		4	Boletín Informativo Justicia y Paz, Vol. 1, N° 3, Pág. 75																									
+2	10	1988	Caquetá	Paujil	Inspección de Policía de Versalles	Emboscada	Guerrilla-FARC	19	15	4	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 32																									
+2	10	1988	Antioquia	Segovia		Combate	Policía Nacional-ELN	6	3	3	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 32																									
+5	10	1988	Santander	Puerto Wilches		Incursión	Guerrilla-FARC y ELN	5	4	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 32																									
+16	10	1988	Antioquia	Cañasgordas	Uramita	Incursión	Guerrilla-EPL	3		3	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 33																									
+25	10	1988	Antioquia	Cañasgordas	La Inspección de Juntas	Ataque a Objetivo Militar	Guerrilla-EPL	24	10	14	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 34																									
+3	11	1988	Santander	Sabana de Torres	Puente Rojo	Combate	Policía Nacional-ELN	2	1	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 65																									
+11	11	1988	Cauca	Bolívar		Combate	Ejército Nacional	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 60																									
+12	11	1988	Boyacá	El Cocuy		Incursión	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 60																									
+12	11	1988	Boyacá	Guicán 		Incursión	Guerrilla-ELN	3	2	1	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 61																									
+29	11	1988	Santander	Tona	Inspección de Berlín	Ataque a Objetivo Militar	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 62																									
+30	11	1988	Bolívar	Morales	Corregimiento de Mico Ahumado 	Combate	Ejército Nacional-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 62																									
+27	12	1988	Bolívar	Simití 		Incursión	Guerrilla-FARC	7	4	3	Boletín Informativo Justicia y Paz, Vol. 1, N° 4, Pág. 87																									
+12	1	1989	Santander	Tona	Corregimiento Berlín	Incursión	Guerrilla-ELN	2		2	Boletín Informativo Justicia y Paz, Vol. 2, N° 1, Pág. 38																									
+15	1	1989	Santander	San Benito		Incursión	Guerrilla-FARC	3		3	Boletín Informativo Justicia y Paz, Vol. 2, N° 1, Pág. 38																									
+29	1	1989	Sucre	Morroa		Combate	Ejército Nacional-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 2, N° 1, Pág. 38																									
+4	2	1989	Santander	San Vicente de Chucurí		Combate	Ejército Nacional-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 2, N° 1, Pág. 57																									
+5	2	1989	Antioquia	El Bagre		Incursión	Ejército Nacional	8		8	Boletín Informativo Justicia y Paz, Vol. 2, N° 1, Pág. 58																									
+15	2	1989	Bolívar	Achí	Corregimiento de Tenche	Ataque a Objetivo Militar	Guerrilla-ELN	30	25	5	Boletín Informativo Justicia y Paz, Vol. 2, N° 1, Pág. 65																									
+11	4	1989	César	Aguachica		Ataque a Objetivo Militar	Guerrilla-ELN	3	1	2	Boletín Informativo Justicia y Paz, Vol. 2, N° 2, Pág. 34																									
+20	6	1989	Santander	Cerrito	Sitio "Paramo de Almorzadero"	Combate	Ejército Nacional-ELN	4	3	1	Boletín Informativo Justicia y Paz, Vol. 2, N° 2, Pág. 91																									
+26	6	1989	Norte de Santander	Cachira 	IP La Vega	Incursión	Guerrilla-ELN	3	2	1	Boletín Informativo Justicia y Paz, Vol. 2, N° 2, Pág. 92																									
+25	7	1989	Antioquia	Yondo	Vereda La Congoja	Bombardeo	Ejército Nacional	6		6	Boletín Justicia y Paz Vol. 2 No 3 Pp. 20																									
+16	9	1989	Cundinamarca	Pacho	Sitio "Villa Gómez"	Combate	Ejército Nacional- Grupos Paramilitares	1		1	Boletín Informativo Justicia y Paz, Vol. 2, N° 3, Pág. 91																									
+21	10	1989	Antioquia	Mutatá	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Boletín Informativo Justicia y Paz, Vol. 2, N° 4, Pág. 34																									
+16	11	1989	Santander	El Playón		Emboscada	Guerrilla-ELN	15	14	1	Boletín Informativo Justicia y Paz, Vol. 2, N° 4, Pág. 57																									
+21	12	1989	Cauca	Bolívar		Incursión	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz, Vol. 2, N° 4, Pág. 78																									
+5	1	1990	César	El Copey		Combate	Ejército Nacional-ELN	2	1	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 15																									
+20	1	1990	Antioquia	Turbo	Cabecera Municipal-Barrio Santa Fe	Emboscada	Guerrilla-EPL	2	1	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 17																									
+25	1	1990	Sucre	Coloso		Incursión	Guerrilla-ELN	1		1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 17																									
+31	1	1990	César	Curumaní	Vía a Valledupar	Emboscada	Guerrilla-ELN	4	2	2	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 18																									
+7	2	1990	Bolívar	Simití 	Corregimiento San Blas	Combate	Ejército Nacional-ELN	4	3	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 44																									
+8	2	1990	Santander	El Carmen	Sitio Ranchogrande	Emboscada	Guerrilla-ELN	7	6	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 45																									
+15	2	1990	Huila	Colombia	Vereda Galilea	Combate	Ejército Nacional-FARC	4	3	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 46																									
+3	3	1990	César	San Diego	Caserío Los Brasiles	Combate	Ejército Nacional-ELN	1		1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 70																									
+14	3	1990	Antioquia	Caldas	Vía al municipio Santa Bárbara	Ataque a Objetivo Militar	Guerrilla-EPL	1		1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 71																									
+17	3	1990	Guainía	Inírida	Sitio Cano Conejo	Ataque a Objetivo Militar	Guerrilla-FARC	11	10	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 71																									
+17	3	1990	Magdalena	Plato	Vereda El Bajo	Combate	Ejército Nacional-ELN	2	1	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 71																									
+31	3	1990	César	Curumaní	Corregimiento San Sebastian	Ataque a Objetivo Militar	Guerrilla-ELN	5	4	1	Justicia y Paz. Boletín informativo Enero-Marzo 1990. Volumen 3, N°. 1.  N°41. Pp. 73																									
+7	4	1990	Putumayo	Sibundoy		Incursión	Guerrilla-CGSB	5	3	2	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 25																									
+15	4	1990	Meta	San Juan de Arama	Vía al municipio Vista Hermosa	Emboscada	Guerrilla-FARC	2	1	1	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 26																									
+17	4	1990	Antioquia	Turbo	ID El Tres-Vía al municipio Necoclí	Emboscada	Guerrilla-ELN	2	1	1	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 27																									
+18	4	1990	Santander	El Playón	Vía a la Costa Atlántica	Emboscada	Guerrilla-ELN	2	1	1	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 27																									
+23	4	1990	Córdoba	Planeta Rica	Corregimiento Campo Alegre	Combate	Ejército Nacional-EPL	5	4	1	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 28																									
+27	5	1990	Huila	Baraya	ID La Batalla-Sitio La Batea	Emboscada	Guerrilla-FARC	11	7	4	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 64																									
+7	6	1990	Antioquia	Retiro		Ataque a Objetivo Militar	Grupo Armado No Identificado	3		3	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 94																									
+15	6	1990	Antioquia	Medellín	Cabecera Municipal-Barrio El Pedregal	Ataque a Objetivo Militar y Combate	Grupo Armado No Identificado	3		3	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 95																									
+29	6	1990	Córdoba	Valencia	Cabecera Municipal	Incursión	Guerrilla-CGSB	3		3	Justicia y Paz. Boletín informativo Abril-Junio 1990. Volumen 3, N°. 2. Pp. 96																									
+9	7	1990	Norte de Santander	Arboledas		Combate	Ejército Nacional-ELN	1		1	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 34																									
+21	7	1990	Santander	Lebrija	ID Portugal	Ataque a Objetivo Militar, Emboscada y Combate	Guerrilla-ELN	6	3	3	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 36																									
+29	7	1990	Cauca	Caloto	Sitio Guadualito	Combate	Ejército Nacional-JEGA	3	2	1	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 37																									
+11	8	1990	Santander	El Playón	Barrio El Refugio	Emboscada	Guerrilla-CGSB	4	3	1	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 60																									
+31	8	1990	Chocó	El Carmen	Sitio La Nueve	Combate	Ejército Nacional-ELN	1		1	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 61																									
+10	9	1990	César	La Jagua de Ibirico	Cabecera Municipal	Incursión	Guerrilla-CGSB	5	3	2	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 81																									
+21	9	1990	Cundinamarca	Yacopí	Sitio Puente Tierra	Emboscada	Guerrilla-FARC	1		1	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 83																									
+23	9	1990	Chocó	Unguía	Corregimiento Santa María La Nueva	Incursión	Guerrilla-FARC	1		1	Justicia y Paz. Boletín informativo Julio-Septiembre 1990. Volumen 3, N°. 3. Pp. 83																									
+10	10	1990	Córdoba	Montería	Sitio Las Parcelas	Combate	Ejército Nacional-FARC	1		1	Justicia y Paz. Boletín informativo Octubre-Diciembre 1990. Volumen 3, N°. 4. Pp. 18																									
+18	10	1990	Santander	San Vicente de Chucurí	Sitio La Esmeralda	Emboscada	Ejército Nacional	3	2	1	Justicia y Paz. Boletín informativo Octubre-Diciembre 1990. Volumen 3, N°. 4. Pp. 19																									
+12	11	1990	Huila	Algeciras	Vereda Piedra Sucia-Sitio Puente Las Juntas	Emboscada	Guerrilla-FARC	8	2	6	Justicia y Paz. Boletín informativo Octubre-Diciembre 1990. Volumen 3, N°. 4. Pp. 43																									
+29	11	1990	Valle del Cauca	Buenaventura	Corregimiento Calima-Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Justicia y Paz. Boletín informativo Octubre-Diciembre 1990. Volumen 3, N°. 4. Pp. 46																									
+10	12	1990	Santander	El Playón	Vía a Bucaramanga	Emboscada	Guerrilla-FARC	3	2	1	Justicia y Paz. Boletín informativo Octubre-Diciembre 1990. Volumen 3, N°. 4. Pp. 66																									
+27	12	1990	César	San Diego	Corregimiento Media Luna	Incursión	Guerrilla-CGSB	8	5	3	Justicia y Paz. Boletín informativo Octubre-Diciembre 1990. Volumen 3, N°. 4. Pp. 70																									
+30	12	1990	Boyacá	Campo Hermoso		Incursión	Guerrilla-FARC	4		4	Justicia y Paz. Boletín informativo Octubre-Diciembre 1990. Volumen 3, N°. 4. Pp. 71																									
+1	1	1991	Bolívar	San Pablo		Incursión	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 1 Pág. 23																									
+1	1	1991	Santander 	Cerrito	Cabecera Municipal	Incursión	Guerrilla-ELN	2	1	1	Boletín Informativo Justicia y Paz. Volumen 4, No 1 Pág. 23																									
+1	1	1991	Sucre	Guaranda	Cabecera Municipal	Incursión	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 1 Pág. 22																									
+6	3	1991	Boyacá	Pauna		Hostigamiento	Grupo Armado No Identificado	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 1 Pág. 107																									
+17	3	1991	Valle del Cauca	Candelaria	Cabecera Municipal	Incursión	Guerrilla-FARC	7	6	1	Boletin Justicia y Paz Vol. 4 No 1. Pp. 24																									
+25	3	1991	Valle del Cauca	Dagua	IP El Queremal	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 1 Pág. 111																									
+30	3	1991	Antioquia	Guadalupe	Cabecera Municipal	Incursión	Guerrilla-FARC	3		3	Boletín Informativo Justicia y Paz. Volumen 4, No 1 Pág. 112																									
+24	4	1991	César	San Martín 	Zona Rural	Combate	Ejército Nacional-ELN	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 2 Pág. 34																									
+7	5	1991	Norte de Santander	El Zulia	Zona Rural	Emboscada	Guerrilla-FARC	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 2 Pág. 68																									
+13	5	1991	Casanare 	Tamara	Cabecera Municipal	Incursión	Guerrilla-CGSB	3	2	1	Boletín Informativo Justicia y Paz. Volumen 4, No 2 Pág. 69																									
+22	5	1991	Santander 	Barrancabermeja	Cabecera Municipal	Bombardeo	Ejército Nacional	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 2 Pág. 71																									
+24	5	1991	Norte de Santander	Sardinata	IP Las Mercedes - Sitio Filo Real	Emboscada	Guerrilla-CGSB	9	7	2	Boletín Informativo Justicia y Paz. Volumen 4, No 2 Pág. 72																									
+27	5	1991	Cundinamarca 	Guataqui		Combate	DAS - FARC	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 2 Pág. 72																									
+30	6	1991	Antioquia	Yarumal	Vereda San Bernardo	Combate	Policía Nacional-FARC	6	5	1	Boletín Informativo Justicia y Paz. Volumen 4, No 2 Pág. 100																									
+7	7	1991	Boyacá	Pajarito	Sitio Curisí	Combate	Guerrilla-CGSB	2	1	1	Boletín Informativo Justicia y Paz. Volumen 4, No 3 Pág. 28																									
+8	7	1991	Antioquia	Uramita	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Boletin Justicia y Paz Vol. 4 No 1. Pp. 40																									
+10	7	1991	Bolívar	San Martín de Loba	Cabecera Municipal	Incursión	Guerrilla-CGSB	5	4	1	Boletín Informativo Justicia y Paz Vol. 4 No 3 Pp. 41																									
+11	7	1991	Meta	La Uribe	Vereda Nariño	Bombardeo	Ejército Nacional	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 3 Pág. 29																									
+6	8	1991	Antioquia	Amalfí		Incursión	Guerrilla-CGSB	4	2	2	Boletín Informativo Justicia y Paz. Volumen 4, No 3 Pág. 63																									
+15	8	1991	Bolívar	Santa Rosa del Sur	Cabecera Municipal	Incursión	Guerrilla-CGSB	18	15	3	Boletín Informativo Justicia y Paz Vol. 4  No 3 Pp. 65																									
+10	9	1991	Bolívar	San Pablo		Incursión	Guerrilla-CGSB	2	1	1	Boletín Informativo Justicia y Paz. Volumen 4, No 3 Pág. 97																									
+14	10	1991	Huila	Acevedo	IP San Adolfo	Incursión	Policía Nacional-Guerrilla no Identificada	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 38																									
+24	10	1991	Casanare 	Tamara	Cabecera Municipal	Incursión	Guerrilla-CGSB	4	3	1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 39																									
+31	10	1991	Meta	Vistahermosa	Sitio Maracaibo	Combate	Ejército Nacional-CGSB	3	2	1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 40																									
+2	11	1991	Antioquia	Remedios	Vía Puerto Berrío	Emboscada	Guerrilla-ELN	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 68																									
+24	11	1991	Cundinamarca 	Medina	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 71																									
+24	11	1991	Antioquia	Yondo		Combate	Ejército Nacional-FARC	3	2	1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 72																									
+4	12	1991	Antioquia	Copacabana		Ataque a Objetivo Militar	Grupo Armado No Identificado	1		1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 98																									
+21	12	1991	Cauca	Argelia	Cabecera Municipal	Incursión	Guerrilla-FARC	1	 	1	Boletin Justicia y Paz Vol. 4 No 3 Pp. 109																									
+25	12	1991	Nariño	Mallama	Cabecera Municipal	Incursión	Guerrilla-FARC	7	6	1	Boletin Justicia y Paz Vol. 4 No 3. Pp. 109																									
+30	12	1991	Boyacá	Chita	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Boletín Informativo Justicia y Paz. Volumen 4, No 4 Pág. 101																									
+4	1	1992	Cesar	San Alberto	Cabecera Municipal	Incursión	Guerrilla-CGSB	4	3	1	Boletín Justicia y Paz Vol. 5 No 1 Pp. 25																									
+12	2	1992	Santander	San Vicente de Chucurí	Cabecera Municipal - Barrio Jaime Ramírez	Ataque a Objetivo Militar	Guerrilla-ELN	3	1	2	Boletin Informativo Justicia y Paz. Volumen 5, No 1. Enero- Marzo 1992. Pp 55																									
+14	2	1992	Cundinamarca	Gutierrez	Vereda Rio Blanco	Bombardeo	Ejército Nacional	5		5	Boletin Informativo Justicia y Paz. Volumen 5, No 1. Enero- Marzo 1992. Pp 56																									
+14	2	1992	Cundinamarca	Gutierrez		Bombardeo	Ejército Nacional	6		6	Boletín Justicia y Paz Vol. 5 No 1 Pp. 56  																									
+19	2	1992	Antioquia	Yali	Cabecera Municipal  	Incursión	Guerrilla-FARC	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 1. Enero- Marzo 1992. Pp 56																									
+28	2	1992	Guaviare	Miraflores	Cabecera Municipal	Incursión	Guerrilla-FARC	2		2	Boletín Justicia y Paz Vol. 5 No 1 Pp. 64																									
+16	3	1992	Meta	San Carlos de Guaroa	Cabecera Municipal	Incursión	Guerrilla-FARC	3	2	1	Boletín Justicia y Paz Vol. 5 No 1 Pp. 85																									
+19	3	1992	Cauca	Patia (El Bordo)	Zona Rural	Combate	Ejército Nacional-ELN	5	3	2	Boletin Informativo Justicia y Paz. Volumen 5, No 1. Enero- Marzo 1992. Pp 86																									
+26	3	1992	Santander	Bolívar		Combate	Policía Nacional-FARC	3	2	1	Boletin Informativo Justicia y Paz. Volumen 5, No 1.  Enero- Marzo 1992. Pp 87																									
+8	4	1992	Antioquia	Segovia	Sitio La Montanita	Ataque a Objetivo Militar	Guerrilla-CGSB	6	1	5	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 29																									
+13	4	1992	Norte de Santander	Sardinata	Vía Sardinata  Ocana	Combate	Policía Nacional-ELN	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 30																									
+19	4	1992	Meta	Puerto Lleras	Cabecera Municipal	Incursión	Guerrilla-FARC	2		2	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 31																									
+6	5	1992	Antioquia	Tarso 		Combate	Policía Nacional-ELN	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 65																									
+9	5	1992	César	Aguachica		Combate	Policía Nacional-CGSB	2	1	1	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 65																									
+14	5	1992	Meta	La Uribe	Sitio "Pedro Toro"	Combate	Ejército Nacional-FARC	1	 	1	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 66																									
+15	5	1992	Santander	San Gil	Vía Bogota Bucaramanga	Combate	Policía Nacional-ELN	6	5	1	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 66																									
+21	5	1992	Tolima	Purificación		Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 67																									
+24	5	1992	Antioquia	Dabeiba	Sitio la Llorona	Combate	Ejército Nacional-FARC	19	18	1	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 68																									
+4	6	1992	César	Aguachica		Ataque a Objetivo Militar	Guerrilla-CGSB	2		2	Boletin Informativo Justicia y Paz. Volumen 5, No 2. Abril - Junio 1992. Pp 103																									
+10	7	1992	Sucre	Sampues	Caserío Cometa	Combate	Policía Nacional-CGSB	4	3	1	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 29																									
+11	7	1992	Antioquia	Salgar	Vía Urrao	Emboscada	Guerrilla-ELN	3	2	1	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 29																									
+11	7	1992	Antioquia	Medellín	Cabecera Municipal - Barrio Belén	Ataque a Objetivo Militar y Emboscada	Milicias Populares	3	1	2	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 30																									
+16	8	1992	Meta	Calvario 	Cabecera Municipal	Incursión	Guerrilla-FARC	8	6	2	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 63																									
+18	8	1992	Sucre	Caimito	Cabecera Municipal	Incursión	Guerrilla-ELN	2	1	1	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 64																									
+23	8	1992	Meta	Granada	IP Puerto Caldas	Emboscada	Guerrilla-FARC	4	1	3	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 64																									
+29	8	1992	Valle del Cauca	Florida	Zona Rural	Combate	Ejército Nacional-FARC	2	1	1	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 65																									
+29	9	1992	Nariño	El Charco 	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Boletin Informativo Justicia y Paz. Volumen 5, No 3. Julio - Septiembre  1992. Pp 97																									
+5	10	1992	Córdoba	Canalete		Emboscada	Ejército Nacional	4	3	1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 24																									
+9	10	1992	Córdoba	Canalete		Combate		1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 25																									
+20	10	1992	Valle del Cauca	Bugalagrande	IP Chorreras	Emboscada	Guerrilla-FARC	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 26																									
+21	10	1992	Cundinamarca	Caqueza	Sitio El Tablón	Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 26																									
+23	10	1992	César	Aguachica	Zona Rural	Combate	Ejército Nacional-ELN	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 27																									
+25	10	1992	César	Pelaya	Cabecera Municipal	Incursión	Guerrilla-CGSB	3	1	2	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 27																									
+26	10	1992	Antioquia	Arboletes	Cabecera Municipal	Incursión	Guerrilla-FARC	4	3	1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 27																									
+1	11	1992	Antioquia	Zaragoza		Hostigamiento	Guerrilla-CGSB	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 59																									
+15	12	1992	Norte de Santander	Cauca	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-ELN	1		1	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 101																									
+26	12	1992	Putumayo	Orito	Zona Rural	Emboscada	Guerrilla-FARC	10	8	2	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 104																									
+`15	12	1992	Santander	Bucaramanga 	Vía Matanza	Combate	Policía Nacional-ELN	3	1	2	Boletin Informativo Justicia y Paz. Volumen 5, No 4. Octubre - Diciembre   1992. Pp 102																									
+5	1	1993	Arauca	Puerto Rondon	Cabecera Municipal	Incursión	Guerrilla-ELN	1		1	Boletin Informativo Justicia y Paz. Volumen 6, No 1. Enero  - Marzo   1993. Pp 38																									
+19	1	1993	Amazonas	Leticia	IP Santa Sofía	Incursión	Guerrilla-FARC	5	2	3	Boletin Informativo Justicia y Paz. Volumen 6, No 1. Enero  - Marzo   1993. Pp 40																									
+20	1	1993	La Guajira	Riohacha	IP La Palma	Combate	Infantería de Marina-FARC	1		1	Boletin Informativo Justicia y Paz. Volumen 6, No 1. Enero  - Marzo   1993. Pp 40																									
+23	1	1993	Antioquia	Mutatá	Cabecera Municipal	Combate	Ejército Nacional-FARC	4	3	1	Boletin Informativo Justicia y Paz. Volumen 6, No 1. Enero  - Marzo   1993. Pp 41																									
+6	2	1993	Antioquia	Chigorodó	Sitio El Retén	Combate	Policía Nacional-FARC	1		1	Boletin Informativo Justicia y Paz. Volumen 6, No 1. Enero  - Marzo   1993. Pp 73																									
+9	2	1993	Meta	Acacias	Cabecera Municipal	Emboscada	Guerrilla-FARC	2	1	1	Boletin Informativo Justicia y Paz. Volumen 6, No 1. Enero  - Marzo   1993. Pp 74																									
+27	2	1993	Antioquia	Segovia	Zona Rural	Combate	Ejército Nacional	6	1	5	Boletin Informativo Justicia y Paz. Volumen 6, No 1. Enero  - Marzo   1993. Pp 77																									
+1	4	1993	Bolívar	Cartagena 	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla No Identificada	1		1	Boletin Informativo Justicia y Paz. Volumen 6, No 2. Abril  - Junio   1993. Pp 39																									
+24	4	1993	Santander	Barrancabermeja	Vereda Perales	Emboscada	Guerrilla-ELN	4	2	2	Boletin Informativo Justicia y Paz. Volumen 6, No 2. Abril  - Junio   1993. Pp 42																									
+9	5	1993	Antioquia	Arboletes		Emboscada	Guerrilla-EPL	5	3	2	Boletin Informativo Justicia y Paz. Volumen 6, No 2. Abril  - Junio   1993. Pp 69																									
+9	5	1993	Huila	La Plata	IP Santa Leticia	Combate	Ejército Nacional-FARC	2		2	Boletin Informativo Justicia y Paz. Volumen 6, No 2. Abril  - Junio   1993. Pp 69																									
+27	5	1993	Antioquia	Apartadó	Zona Rural	Combate	Policía Nacional-FARC	1		1	Boletin Informativo Justicia y Paz. Volumen 6, No 2. Abril  - Junio   1993. Pp 71																									
+29	5	1993	César	El Copey		Combate	Guerrilla-ELN	2	1	1	Boletin Informativo Justicia y Paz. Volumen 6, No 2. Abril  - Junio   1993. Pp 71																									
+27	6	1993	Antioquia	Anorí	Sitio Puente Acacías	Emboscada	Guerrilla-FARC	4	2	2	Boletin Informativo Justicia y Paz. Volumen 6, No 2. Abril  - Junio   1993. Pp 101																									
+3	7	1993	Santander	Lebrija		Combate	Ejército Nacional-ELN	3	2	1	Boletin Informativo Justicia y Paz. Volumen 6, No 3.  Julio - Septiembre   1993. Pp 27																									
+8	8	1993	Santander	Encino	Vereda Poima	Combate	Policía Nacional-FARC	2		2	Boletin Informativo Justicia y Paz. Volumen 6, No 3.  Julio - Septiembre   1993. Pp 55																									
+23	8	1993	Antioquia	Yarumal	Vereda El Martiñal	Combate	Policía Nacional-FARC	3	2	1	Boletin Informativo Justicia y Paz. Volumen 6, No 3.  Julio - Septiembre   1993. Pp 57																									
+12	9	1993	Santander	Matanza	Vereda El Paujil	Combate	Ejército Nacional-ELN	3	2	1	Boletin Informativo Justicia y Paz. Volumen 6, No 3.  Julio - Septiembre   1993. Pp 91																									
+17	9	1993	Antioquia	San Luis	Sitio Alto Monteloro	Ataque a Objetivo Militar	Guerrilla No Identificada	1		1	Boletin Informativo Justicia y Paz. Volumen 6, No 3.  Julio - Septiembre   1993. Pp 92																									
+10	10	1993	Caquetá	Solano	Vereda Betania	Combate	Ejército Nacional-FARC	2		2	Boletin Informativo Justicia y Paz. Volumen 6, No 4.  Octubre - Diciembre   1993. Pp 29																									
+19	10	1993	Arauca	Saravena	Vereda El Porvenir	Emboscada	Guerrilla-ELN	4	2	2	Boletin Informativo Justicia y Paz. Volumen 6, No 4.  Octubre - Diciembre   1993. Pp 29																									
+28	10	1993	Antioquia	Amalfí	Cabecera Municipal	Incursión	Guerrilla-ELN	7	6	1	Boletín Justicia y Paz Vol. 6 No 4 Pp. 30																									
+4	11	1993	Antioquia	Turbo	Vereda San Jorge	Combate	Ejército Nacional	1		1	Boletin Informativo Justicia y Paz. Volumen 6, No 4.  Octubre - Diciembre   1993. Pp 65																									
+24	11	1993	Caldas	Manizales	Zona Rural	Combate	Ejército Nacional-Guerrilla No Identificada	6		6	Boletin Informativo Justicia y Paz. Volumen 6, No 4.  Octubre - Diciembre   1993. Pp 67																									
+30	11	1993	Bolívar	San Jacinto	Sitio Cerro del Venado	Combate	Infantería de Marina-FARC,ELN y EPL	8	6	2	Boletin Informativo Justicia y Paz. Volumen 6, No 4.  Octubre - Diciembre   1993. Pp 68																									
+1	1	1994	Cauca	Piendamó		Emboscada	Guerrilla-ELN	3	2	1	Boletin Informativo Justicia y Paz, Volumen 7 #1. Pp. 37 																									
+24	1	1994	Norte de Santander	Ocaña	Vereda Trapiches, vía Ocaña-El Carmen	Ataque a Objetivo Militar	Grupo Armado No Identificado	4	3	1	Boletin Informativo Justicia y Paz, Volumen 7 #1. Pp. 39																									
+31	1	1994	César	El Copey		Ataque a Objetivo Militar	Guerrilla-ELN	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #1. Pp. 39 																									
+16	2	1994	Antioquia	Yondo	Sitio La Curba	Emboscada	Guerrilla-FARC	3	1	2	Boletin Informativo Justicia y Paz, Volumen 7 #1. Pp. 67																									
+2	3	1994	Huila	Isnos	Veredas Paloquemao y El Mármol	Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #1. Pp. 96																									
+7	3	1994	Tolima	Rovira	Corregimiento Riomanso	Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #1. Pp. 97																									
+19	4	1994	Norte de Santander	Hacari		Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #2. Pp. 39																									
+27	5	1994	Caquetá	San Vicente del Caguán	IP Guacamayas	Combate	Ejército Nacional-FARC	5	4	1	Boletin Informativo Justicia y Paz, Volumen 7 #2. Pp. 69																									
+12	6	1994	Cauca	Corinto	Cabecera Municipal	Emboscada	Guerrilla-FARC	1	1	1	Boletin Informativo Justicia y Paz, Volumen 7 #2. Pp. 103																									
+19	7	1994	Meta	Villavicencio		Emboscada	Guerrilla-FARC	2	1	1	Boletin Informativo Justicia y Paz, Volumen 7 #3. Pp. 48																									
+20	7	1994	Tolima	Roncesvalles		Incursión	Guerrilla-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #3. Pp. 49																									
+20	7	1994	Huila	Aipe	ID Pata	Combate	Ejército Nacional-FARC	3	3	1	Boletin Informativo Justicia y Paz, Volumen 7 #3. Pp. 49																									
+22	7	1994	Distrito Capital	Bogotá	Cabecera Municipal - Barrios Vista Hermosa, San Joaquin del Vaticano, La Estrella y la Candelaria	Ataque a Objetivo Militar	Guerrilla-FARC	3	2	1	Boletin Informativo Justicia y Paz, Volumen 7 #3. Pp. 49																									
+5	8	1994	Cauca	Piendamó		Incursión	Guerrilla-FARC	3	1	2	Boletin Informativo Justicia y Paz, Volumen 7 #3. Pp. 80																									
+13	8	1994	Antioquia	Tamesis	Vereda Manzanares, Inspección epartamental San Pablo	Combate	Policía Nacional-Grupo Armado No Identificado	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #3. Pp. 81																									
+16	9	1994	Santander	Puerto Wilches		Combate	 Ejército Nacional-ELN	2	1	1	Boletin Informativo Justicia y Paz, Volumen 7 #3. Pp. 117																									
+24	10	1994	Valle del Cauca	Dagua	Cabecera Municipal - Barrio La Gran Colombia	Ataque a Objetivo Militar	Grupo Armado No Identificado	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #4. Pp. 44																									
+29	10	1994	Santander	Sabana de Torres	ID Magará	Emboscada	Guerrilla-FARC	7	6	1	Boletin Informativo Justicia y Paz, Volumen 7 #4. Pp. 44																									
+29	10	1994	Bolívar	El Carmen de Bolívar	Sitio La Casona, corregimiento Caracolí Grande	Emboscada	Ejército Nacional-FARC	5		5	Boletin Informativo Justicia y Paz, Volumen 7 #4. Pp. 44																									
+12	11	1994	Cauca	Puracé		Emboscada	Guerrilla-FARC	13	11	2	Boletin Informativo Justicia y Paz, Volumen 7 #4. Pp. 74																									
+14	11	1994	Guaviare	El Retorno	Zona Rural	Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 7 #4. Pp. 75																									
+13	1	1995	Tolima	Planadas	Cabecera Municipal	Incursión	Guerrilla-FARC	7	4	3	Boletin Justicia y Paz Vol. 8  No 1. Pp. 51																									
+15	1	1995	La Guajira	Fonseca		Combate	Ejército Nacional-FARC	4	3	1	Boletin Informativo Justicia y Paz, Volumen 8 #1. Pp. 43																									
+24	1	1995	César	Aguachica	 Vereda Aguas Claras	Emboscada	Guerrilla-ELN	2	1	1	Boletin Informativo Justicia y Paz, Volumen 8 #1. Pp. 44																									
+1	2	1995	Boyacá	Maripi	ID Guayabal	Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 8 #1. Pp. 75																									
+6	2	1995	Caldas	La Merced	Zona Rural, Sitio El Yarumo	Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 8 #1. Pp. 75																									
+16	2	1995	Santander	Matanza	Vereda la Plazuela	Combate	Ejército Nacional-ELN	3	2	1	Boletin Informativo Justicia y Paz, Volumen 8 #1. Pp. 77																									
+5	3	1995	Antioquia	Ituango	Cabecera Municipal	Incursión	Guerrilla-FARC	7	1	6	Boletin Justicia y Paz Vol. 8 No 1. Pp. 113																									
+18	5	1995	Cundinamarca	Ubaque	Cabecera Municipal	Incursión	Guerrilla-FARC	3	2	1	Boletin Justicia y Paz Vol. 8 No 2. Pp. 92																									
+18	5	1995	César	Valledupar	Corregimiento Mariangola	Combate	 Ejército Nacional-ELN	1		1	Boletin Informativo Justicia y Paz, Volumen 8 #2. Pp. 81																									
+28	5	1995	Sucre	Chalán	Sitio La Despensa	Ataque a Objetivo Militar	Guerrilla-FARC	2	1	1	Boletin Informativo Justicia y Paz, Volumen 8 #2. Pp. 82																									
+31	5	1995	Antioquia	Zaragoza	Cabecera Municipal - Barrio San Gregorio	Combate	Ejército Nacional-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 8 #2. Pp. 83																									
+6	6	1995	Antioquia	Apartadó		Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 8 #2. Pp. 110																									
+11	6	1995	Antioquia	Nariño	Sitio La Iguana	Emboscada	Guerrilla-FARC	3	2	1	Boletin Informativo Justicia y Paz, Volumen 8 #2. Pp. 110																									
+4	8	1995	Cundinamarca	Fusagasuga	ID El Triunfo-Boqueron	Emboscada	Guerrilla-FARC	5	4	1	Boletin Informativo Justicia y Paz, Volumen 8 #3. Pp. 71																									
+7	8	1995	Guaviare	Miraflores	Cabecera Municipal	Incursión	Guerrilla-FARC	16	9	7	Boletin Informativo Justicia y Paz Vol. 8 No 3. Pp. 80																									
+9	8	1995	Antioquia	Sonsón	ID San Miguel	Combate	Ejército Nacional-FARC	2	1	1	Boletin Informativo Justicia y Paz, Volumen 8 #3. Pp. 72																									
+10	8	1995	Cauca	Totoro		Incursión	Guerrilla-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 8 #3. Pp. 72																									
+28	8	1995	Bolívar	El Carmen de Bolívar	Sitio Balsamo	Emboscada	Guerrilla-FARC	3	1	2	Boletin Informativo Justicia y Paz, Volumen 8 #3. Pp. 74																									
+16	10	1995	Caldas	Pensilvania	ID Pueblonuevo	Incursión	Guerrilla-FARC	2	1	1	Boletin Informativo Justicia y Paz, Volumen 8 #4. Pp. 37																									
+29	11	1995	Boyacá	Gameza		Incursión	Guerrilla-FARC	1		1	Boletin Informativo Justicia y Paz, Volumen 8 #4. Pp. 64																									
+25	12	1995	Cundinamarca	Une		Incursión	Guerrilla-FARC	2	1	1	Boletin Informativo Justicia y Paz, Volumen 8 #4. Pp. 86																									
+10	1	1996	Norte de Santander	Toledo	Cabecera Municipal	Incursion	Guerrilla-ELN	2	1	1	Boletin Informativo Justicia y Paz, Volumen 9 #1. Pp. 24																									
+16	1	1996	Meta	Mapiripán	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Boletin Informativo Justicia y Paz, Volumen 9 #1. Pp. 25																									
+23	1	1996	Tolima	Dolores	Cabecera Municipal	Incursión	Guerrilla-FARC	1	 	1	Boletin Informativo Justicia y Paz, Volumen 9 #1. Pp. 17																									
+25	4	1996	Caquetá	San José de la Fragua	Cabecera Municipal	Incursión	Guerrilla-FARC	7	6	1	Boletin Informativo Justicia y Paz, Volumen 9 #1. Pp. 35																									
+1	5	1996	Antioquia	Segovia	Cabecera Municipal	Incursión	Guerrilla-ELN	1		1	Boletin Justicia y Paz Vol. 9  No 2. Pp. 59																									
+4	8	1996	Arauca	Arauquita		Ataque a Objetivo Militar	Guerrilla-ELN	8	7	1	Noche y Niebla # 1. Pp. 96																									
+29	8	1996	Cundinamarca	Jerusalén		Ataque a Objetivo Militar	Guerrilla-FARC	2	1	1	Noche y Niebla # 1. Pp. 97																									
+30	8	1996	Distrito Capital	Bogotá	Barrio Los Libertadores	Ataque a Objetivo Militar	Guerrilla-FARC	5	4	1	Noche y Niebla # 1. Pp. 97																									
+4	9	1996	Casanare	Aguazul		Emboscada	Guerrilla-FARC	4	2	2	Noche y Niebla # 1. Pp. 105																									
+6	9	1996	Guaviare	San José del Guaviare	Vereda La Carpa	Ataque a Objetivo Militar	Guerrilla-FARC	25	24	1	Noche y Niebla # 1. Pp. 108																									
+13	9	1996	Antioquia	Medellín		Ataque a Objetivo Militar	Grupo Armado No Identificado	1		1	Noche y Niebla # 1. Pp. 109																									
+17	9	1996	Antioquia	Dabeiba	Vereda Chambucal	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 1. Pp. 104																									
+20	9	1996	Antioquia	San Luis		Combate	Ejército Nacional-ELN	1		1	Noche y Niebla # 1. Pp. 104																									
+27	9	1996	Norte de Santander	El Zulia		Combate	Ejército Nacional-ELN	2	1	1	Noche y Niebla # 1. Pp. 105																									
+21	10	1996	Magdalena	Fundación	Zona Rural	Combate	Ejército Nacional-ELN	1		1	Noche y Niebla # 2. Pp. 126																									
+5	11	1996	Antioquia	Apartadó	Cabecera Municipal	Combate	Policía Nacional-Guerrilla No Identificada	3	2	1	Noche y Niebla # 2. Pp. 130																									
+11	12	1996	Antioquia	Toledo	Cabecera Municipal	Combate	Policía Nacional-FARC	1		1	Noche y Niebla # 2. Pp. 135																									
+12	1	1997	Cauca	Caloto	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Noche y Niebla # 3. Pp. 128																									
+13	1	1997	Magdalena	Fundación	Corregimiento Santa Rosa de Lima	Incursión	Guerrilla-FARC	3	1	2	Noche y Niebla # 3. Pp. 128																									
+20	1	1997	César	Valledupar	Corregimiento Valencia Jesús - Vereda Cimarrón	Combate	Ejército Nacional-ELN	2	1	1	Noche y Niebla #3. Pp. 130																									
+21	1	1997	Antioquia	Argelia	Cabecera Municipal	Incursión	Policía Nacional-FARC	2	1	1	Noche y Niebla # 3. Pp. 128																									
+2	2	1997	Antioquia	El Bagre		Ataque a Objetivo Militar y Combate	Ejército Nacional-ELN	2	1	1	Noche y Niebla # 3. Pp. 139																									
+6	2	1997	Boyacá	Cubará	Cabecera Municipal	Incursión	Guerrilla-ELN	7	5	2	Noche y Niebla # 3. Pp. 135																									
+21	2	1997	Cundinamarca 	El Colegio	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	2		2	Noche y Niebla # 3. Pp. 140																									
+4	3	1997	Chocó	Riosucio	Zona Rural	Combate	Ejército Nacional-FARC	6	4	2	Noche y Niebla # 3. Pp. 144																									
+17	3	1997	Santander	Barrancabermeja	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-ELN	1		1	Noche y Niebla # 3. Pp. 149																									
+9	5	1997	Cundinamarca	Venecia		Incursión	Guerrilla-FARC	3	1	2	Noche y Niebla # 4. Pp. 141																									
+9	5	1997	Cundinamarca	Venecia	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Noche y Niebla # 4. Pp. 141																									
+21	5	1997	Tolima	Prado	IP Montoso - Vereda Altagracia	Combate	Ejército Nacional-FARC	2		2	Noche y Niebla # 4. Pp. 143																									
+4	6	1997	Cauca	Silvia	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Noche y Niebla # 4. Pp. 147																									
+6	6	1997	Nariño	Barbacoas	Cabecera Municipal	Incursión	Guerrilla-FARC	6	4	2	Noche y Niebla # 4. Pp. 147																									
+21	6	1997	Huila 	El Hobo	Zona Rural	Emboscada	Guerrilla-FARC	4		4	Noche y Niebla # 4. Pp. 150																									
+3	7	1997	Magdalena	Ciénaga	Corregimiento Tucurinca	Emboscada	Guerrilla-ELN	4	2	2	Noche y Niebla # 5. Pp. 144																									
+18	7	1997	Cesar	La Paz	Cabecera Municipal	Incursión	Guerrilla-ELN	1		1	Noche y Niebla # 5. Pp. 148																									
+19	7	1997	Meta	San Martín		Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 5. Pp. 143																									
+1	8	1997	Caquetá	Valparaiso	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Noche y Niebla # 5. Pp. 151																									
+10	8	1997	Bolívar	San Pablo	Zona Rural	Combate	Ejército Nacional-Guerrilla No Identificada	4	2	2	Noche y Niebla # 5. Pp. 152 																									
+15	8	1997	Antioquia	Mutatá		Combate	Ejército Nacional-FARC	5	4	1	Noche y Niebla # 5. Pp. 153																									
+11	9	1997	Boyacá	Pajarito	Cabecera Municipal	Incursión	Guerrilla-FARC	10	7	3	Noche y Niebla # 5. Pp. 159																									
+12	9	1997	Cauca	Santander de Quilichao	IP Mondomo	Combate	Ejército Nacional-FARC	4	3	1	Noche y Niebla # 5. Pp. 160																									
+24	9	1997	Meta	La Uribe	Cabecera Municipal	Incursión	Guerrilla-FARC	3	2	1	Noche y Niebla # 5. Pp. 164																									
+13	10	1997	Caquetá	Puerto Rico	Cabecera Municipal	Emboscada	Guerrilla-FARC	1		1	Noche y Niebla # 6. Pp. 143 - 144																									
+18	10	1997	Cauca 	Balboa	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Noche y Niebla # 6. Pp. 140																									
+26	10	1997	Cundinamarca	Gutierrez		Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 6. Pp. 142																									
+16	11	1997	Meta	Mesetas	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Noche y Niebla # 6. Pp. 149																									
+17	11	1997	Cauca	Totoro	Cabecera Municipal	Incursión	Guerrilla-FARC	4	2	2	Noche y Niebla # 6. Pp. 149																									
+19	11	1997	Quindío 	Calarcá	IP Departamental La Bella	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Noche y Niebla # 6. Pp. 152																									
+2	12	1997	Bolívar	San Jacinto	Sitio La Flecha	Emboscada	Guerrilla-FARC	5	4	1	Noche y Niebla # 6 Pp. 156																									
+11	12	1997	Santander	Guaca	Cabecera Municipal	Incursión	Guerrilla No Identificada	3	2	1	Noche y Niebla # 6. Pp. 153																									
+11	12	1997	Santander	Mogotes	Cabecera Municipal	Incursión	Guerrilla-ELN	6	3	3	Noche y Niebla # 6. Pp. 153																									
+15	12	1997	Meta	Mesetas	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	Noche y Niebla # 6. Pp. 153																									
+16	12	1997	Norte de Santander	San Calixto	Cabecera Municipal	Incursión	Guerrilla-ELN y EPL	1		1	Noche y Niebla # 6. Pp. 153																									
+8	1	1998	Magdalena	Ariguaní		Ataque a Objetivo Militar y Combate	Guerrilla-FARC	5	3	2	Noche y Niebla # 7 y 8 Pp. 24																									
+2	2	1998	Magdalena	Ciénaga	Vía a Fundación - Sitio El Portón de Morgan	Combate	Ejército Nacional-FARC	2	1	1	Noche y Niebla # 7 y 8 Pp. 38																									
+7	3	1998	Norte de Santander	Sardinata	IP Las Mercedes	Hostigamiento	Guerrilla-FARC	1		1	Noche y Niebla # 7 y 8 Pp. 58																									
+8	3	1998	Antioquia	Angostura		Combate	Policía Nacional-FARC	2		2	Noche y Niebla # 7 y 8 Pp. 59																									
+10	3	1998	Cundinamarca	La Peña	Sitio Cerro La Esquina	Combate	Guerrilla-FARC	4	1	3	Noche y Niebla # 7 y 8 Pp. 69																									
+12	3	1998	Arauca	Arauquita	IP El Troncal	Combate	 Ejército Nacional-FARC	1		1	Noche y Niebla # 7 y 8 Pp. 71																									
+25	3	1998	Meta	Puerto Lleras		Ataque a Objetivo Militar e Incursión	Guerrilla-FARC	6	4	2	Noche y Niebla # 7 y 8 Pp. 79 y 80																									
+3	4	1998	Tolima	Ataco	IP Santiago Pérez - Vereda Las Blancas	Combate	Grupos Paramilitares-FARC	1		1	Noche y Niebla # 7 y 8 Pp. 90																									
+13	4	1998	Arauca	Cravo Norte		Incursión	Guerrilla-FARC	2		2	Noche y Niebla # 7 y 8 Pp. 96																									
+13	4	1998	Arauca	Saravena		Ataque a Objetivo Militar	Guerrilla-FARC y ELN	1		1	Noche y Niebla # 7 y 8 Pp. 96																									
+23	4	1998	Antioquia	San Rafael		Combate	Grupos Paramilitares-FARC	3		3	Noche y Niebla # 7 y 8 Pp. 103																									
+1	5	1998	Arauca	Arauquita		Emboscada	Guerrilla-FARC	1		1	Noche y Niebla # 7 y 8 Pp. 109																									
+9	5	1998	Caldas	Riosucio	Corregimiento San Lorenzo	Incursión	Guerrilla-FARC	2	1	1	Noche y Niebla # 7 y 8 Pp. 113																									
+23	5	1998	Arauca	Arauquita	Zona Rural	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 7 y 8 Pp. 125																									
+31	5	1998	Norte de Santander	El Tarra	Cabecera Municipal	Hostigamiento	Guerrilla-ELN	1		1	Noche y Niebla # 7 y 8 Pp. 134																									
+1	7	1998	Guaviare	El Retorno	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	2		2	Noche y Niebla # 9 Pp. 25																									
+5	7	1998	Magdalena	Ciénaga	sector del Cerro Azul - Jurisdicción Sevilla	Hostigamiento	Ejército Nacional-FARC	2	1	1	Noche y Niebla # 9 Pp. 29																									
+6	7	1998	Meta	Puerto Gaitan	I.P. Tilava	Incursión	Grupos Paramilitares	5		5	Noche y Niebla # 9  Pp. 30																									
+10	7	1998	Bolívar	Simití 	Vía al corregimiento Cerro Burgos	Combate	Ejército Nacional-ELN	3	1	2	Noche y Niebla # 9  Pp. 32																									
+28	7	1998	Santander	Barrancabermeja	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-ELN	2	1	1	Noche y Niebla # 9  Pp. 45																									
+3	8	1998	Magdalena	Santa Marta	Corregimiento Minca	Incursión	Guerrilla-ELN	1		1	Noche y Niebla # 9 Pp. 54																									
+3	8	1998	Risaralda	Mistrato	Corregimiento San Antonio de Chamí	Incursión	Guerrilla-FARC	9	8	1	 Noche y Niebla # 9 Pp. 52																									
+3	8	1998	Antioquia	Mutatá	Corregimiento de Pavarandó Grande	Combate	Ejército Nacional-FARC	36	35	1	Noche y Niebla # 9 Pp. 52																									
+23	8	1998	Santander	Barrancabermeja	Cabecera Municipal - Barrio Boston	Combate	Ejército Nacional-EPL	2	1	1	Noche y Niebla # 9 Pp. 67																									
+8	9	1998	Antioquia	San Luis	Corregimiento MonteLoro (La Josefina) - Sitio Alto de la Cruz	Combate	Grupos Paramilitares-FARC	1		1	Noche y Niebla # 9 Pp. 83																									
+9	9	1998	Antioquia	Mutatá	I.P. Bejuquillo	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 9 Pp. 83																									
+24	9	1998	Antioquia	Dabeiba	Cabecera Municipal	Incursión	Guerrilla-FARC	4	2	2	Noche y Niebla # 9  Pp. 93																									
+11	10	1998	Nariño	Leiva	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 10 Pp. 33																									
+14	10	1998	Nariño	San Bernardo, Belen, Colón.Genova, La Cruz y San José de Albán	San Bernardo, Belen, Colón.Genova, La Cruz y San José de Albán	Incursión	Guerrilla-FARC	3	2	1	Noche y Niebla # 10  Pp. 36																									
+1	11	1998	Vaupes 	Mitu	Cabecera Municipal	Incursión	Guerrilla-FARC	103	93	10	Noche y Niebla # 10  Pp. 55																									
+1	11	1998	Tolima	Planadas	I.P. Bilbao	Combate	Grupos Paramilitares-FARC	5		5	Noche y Niebla # 10  Pp. 56																									
+7	11	1998	Norte de Santander	El Zulia	Cabecera Municipal	Combate	Ejército Nacional-ELN	3	2	1	Noche y Niebla # 10  Pp. 62																									
+7	11	1998	Cauca	López de Micay	Cabecera Municipal	Combate	Policía Nacional-FARC	6	4	2	Noche y Niebla # 10  Pp. 62 - 63																									
+18	11	1998	Cauca	Almaguer	Cabecera Municipal	Incursión	Guerrilla-ELN	1		1	Noche y Niebla # 10  Pp. 71																									
+1	12	1998	Antioquia	San Francisco	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	12	1	11	Noche y Niebla # 10  Pp. 83																									
+17	12	1998	Arauca	Tame	Caserío Santo Domingo	Combate y Bombardeo	Fuerza Aérea Colombiana	22	6	16	Noche y Niebla # 10  Pp. 89																									
+31	12	1998	Santander	Bucaramanga	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-EPL	2		2	Noche y Niebla # 10  Pp. 97																									
+5	1	1999	César	Pueblo Bello	Cabecera Municipal	Incursión	Guerrilla-FARC	3	2	1	 Noche y Niebla # 11 Pp. 35																									
+21	1	1999	Norte de Santander	Sardinata	IP Las Mercedes, sitio Pailitas	Combate	Ejército Nacional-EPL	4	2	2	 Noche y Niebla # 11 Pp. 51																									
+5	2	1999	Norte de Santander	Arboledas	Vereda La Batea, IP Villa Sucre	Combate	Ejército Nacional-ELN	3	2	1	 Noche y Niebla # 11 Pp. 63																									
+14	2	1999	Cauca	Totoro	Zona Rural	Combate	Ejército Nacional-FARC	4	3	1	 Noche y Niebla # 11 Pp. 69																									
+15	2	1999	Antioquia	Pueblorrico	Vereda El Cedrón, sitio La Fonda	Combate	Ejército Nacional-ELN	2	1	1	 Noche y Niebla # 11 Pp. 71																									
+5	3	1999	Bolívar	Tiquisio	Corregimiento Colorado, sitio Boca de Calo Guacamayo	Combate	Ejército Nacional-ELN	7	6	1	 Noche y Niebla # 11 Pp. 91																									
+22	3	1999	Antioquia	Salgar	Sitio Cañón de las Brasas	Combate	 Grupos Paramilitares- FARC y ELN	3		3	 Noche y Niebla # 11 Pp. 104																									
+31	3	1999	César	San Alberto	Sitio Vijagual	Combate	Ejército Nacional-FARC	2	1	1	 Noche y Niebla # 11 Pp. 110																									
+2	4	1999	Antioquia	Urrao	Vereda La Venta	Combate	Policía Nacional-FARC	1		1	 Noche y Niebla # 12 Pp. 40																									
+5	4	1999	Antioquia	San Francisco	Vereda Quibra	Combate	Ejército Nacional-FARC	3	2	1	 Noche y Niebla # 12 Pp. 44																									
+11	4	1999	Antioquia	Vegachi	Cabecera Municipal	Incursión	Guerrilla-FARC	1	 	1	 Noche y Niebla # 12 Pp. 49	Esteban Arteaga Correa																								
+13	4	1999	Nariño	Colón (Genova)	Cabecera Municipal	Incursión	Guerrilla-ELN	2	1	1	 Noche y Niebla # 12 Pp. 52																									
+15	5	1999	Antioquia	Anorí		Ataque a Objetivo Militar	Guerrilla-ELN	1		1	 Noche y Niebla # 12 Pp. 78																									
+17	5	1999	Bolívar	El Guamo	Zona Rural	Combate	Grupos Paramilitares-FARC	1		1	 Noche y Niebla # 12 Pp. 79																									
+18	5	1999	Caldas	Samaná	Corregimiento Florencia	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 12 Pp. 80																									
+21	5	1999	Norte de Santander	Sardinata	IP La Victoria	Incursión	Guerrilla-ELN	1		1	 Noche y Niebla # 12 Pp. 85																									
+9	6	1999	Boyacá	El Espino	Cabecera Municipal	Incursión	Guerrilla-FARC	9	8	1	 Noche y Niebla # 12 Pp. 103 - 104																									
+25	6	1999	Valle del Cauca	Sevilla	Corregimiento San Antonio	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 12 Pp. 118																									
+25	6	1999	Bolívar	Montecristo	Corregimiento Regencia	Combate	Grupos Paramilitares-ERP	5	4	1	 Noche y Niebla # 12 Pp. 119																									
+26	6	1999	Nariño	Samaniego	Sitio Bonete	Emboscada	Guerrilla-EPL	3	2	1	 Noche y Niebla # 12 Pp. 120																									
+9	7	1999	Antioquia	San Carlos	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 13 Pp. 50																									
+10	7	1999	Meta 	Puerto Lleras	Vía Puerto Concordia - Puerto Lleras	Incursión	Ejército Nacional-FARC	42	37	5	 Noche y Niebla # 13 Pp. 52																									
+30	7	1999	Antioquia	Nariño	Cabecera Municipal	Incursión	Guerrilla-FARC	18	10	8	 Noche y Niebla # 13 Pp. 71																									
+8	8	1999	Norte de Santander	Cucutilla		Combate	Ejército Nacional-FARC	2	1	1	 Noche y Niebla # 13 Pp. 80																									
+13	8	1999	Cauca	Timbio		Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 13 Pp. 86																									
+13	8	1999	Tolima	Casabianca	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	1		1	 Noche y Niebla # 13 Pp. 86																									
+27	8	1999	Nariño	Alban		Incursión	Fuerza Pública-Guerrilla No Identificada	4		4	 Noche y Niebla # 13 Pp. 97																									
+31	8	1999	Tolima	Venadillo	Sitio Los Chorros	Combate	Policía Nacional-ELN	1		1	 Noche y Niebla # 13 Pp. 106																									
+22	9	1999	Antioquia	San Carlos	Veredas Leona, Santa Rita, Santa Inés, Cocalito, Sardinas y Sardinítnas.	Combate	Ejército Nacional-Fuerza Aérea Colombiana-FARC	1		1	 Noche y Niebla # 13 Pp. 139																									
+8	10	1999	Santander	Guaca		Combate	Ejército Nacional-FARC	2	1	1	 Noche y Niebla # 14 Pp. 66																									
+11	10	1999	Valle del Cauca	Cali		Ataque a Objetivo Militar	Guerrilla-ELN	1		1	 Noche y Niebla # 14 Pp. 69																									
+6	11	1999	Putumayo	San Miguel		Ataque a Objetivo Militar	Guerrilla-FARC	5		5	 Noche y Niebla # 14 Pp. 89																									
+13	11	1999	Cauca	Almaguer	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	3	2	1	 Noche y Niebla # 14 Pp. 106																									
+21	11	1999	Huila	Isnos		Ataque a Objetivo Militar	Guerrilla-FARC	2	1	1	 Noche y Niebla # 14 Pp. 116																									
+3	12	1999	Huila	Gigante	Cabecera Municipal	Incursión	Guerrilla-FARC	2		2	 Noche y Niebla # 14 Pp. 132																									
+3	12	1999	Huila	Algeciras	Sitio Tres Esquinas	Combate	Ejército Nacional-FARC	1		1	 Noche y Niebla # 14 Pp. 132																									
+8	12	1999	Norte de Santander	El Carmen	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	3	2	1	 Noche y Niebla # 14 Pp. 136																									
+8	12	1999	Risaralda	Quinchia		Combate	Ejército Nacional-EPL	1		1	 Noche y Niebla # 14 Pp. 136																									
+9	12	1999	Caquetá	San José del Fragua	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 14 Pp. 137																									
+9	12	1999	Caquetá	Curillo	Cabecera Municipal	Incursión	 Policia Nacional- Fuerza Aérea Colombiana- FARC 	3	2	1	 Noche y Niebla # 14 Pp. 137																									
+11	12	1999	Antioquia	San Luis	Cabecera Municipal	Incursión	Guerrilla-FARC	10	8	2	 Noche y Niebla # 14 Pp. 140																									
+20	12	1999	La Guajira	Urumita	Zona Rural	Emboscada	Guerrilla-FARC	11	9	2	 Noche y Niebla # 14 Pp. 148																									
+25	12	1999	Tolima	Santa Isabel	Cabecera Municipal	Incursión	Guerrilla-ELN y ERP	1		1	 Noche y Niebla # 14 Pp. 152																									
+3	1	2000	César	La Gloria	Vereda La Morena	Combate	Ejército Nacional	1		1	 Noche y Niebla # 15. Enero.  Pp. 3																									
+4	1	2000	Santander 	Barrancabermeja	Cabecera Municipal - Barrio El Progreso	Combate	 Ejército Nacional- FARC y ELN	1		1	 Noche y Niebla # 15. Enero.  Pp. 4																									
+5	1	2000	Antioquia	Yolombó	Zona Rural - Sitio La Mantequilla	Combate	Ejército Nacional-ELN	3	2	1	 Noche y Niebla # 15. Enero.  Pp. 5																									
+11	1	2000	Nariño	Ipiales		Ataque a Objetivo Militar	Guerrilla-FARC	2	1	1	 Noche y Niebla # 15. Enero.  Pp. 12																									
+15	1	2000	Cundinamarca	Guayabetal		Combate	Guerrilla-FARC	44	35	9	 Noche y Niebla # 15. Enero.  Pp. 18																									
+31	1	2000	Cauca	Suárez	Cabecera Municipal   	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 15. Enero.  Pp. 38																									
+5	2	2000	Cauca	Argelia	Cabecera Municipal	Incursión	Guerrilla-FARC	3		3	 Noche y Niebla # 15 Pp. 6																									
+8	2	2000	Putumayo	San Francisco		Emboscada	Guerrilla-FARC	1		1	 Noche y Niebla # 15. Febrero. Pp. 10																									
+12	2	2000	Bolívar	San Jacinto	Cabecera Municipal	Incursión	Guerrilla-FARC	2		2	 Noche y Niebla # 15. Febrero.  Pp. 19																									
+12	2	2000	César	La Paz	Cabecera Municipal	Emboscada	Guerrilla-FARC	3	2	1	 Noche y Niebla # 15. Febrero. Pp. 18																									
+27	2	2000	Bolívar	Montecristo	Corregimiento de Regencia	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	 Noche y Niebla # 15. Febrero. Pp. 47																									
+1	3	2000	Antioquia 	Carolina	Cabecera Municipal	Incursión	Guerrilla-FARC	2		2	 Noche y Niebla # 15 Pp. 140																									
+3	3	2000	Santander	Barrancabermeja	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	2		2	 Noche y Niebla # 15 Pp. 142																									
+6	3	2000	César	Curumaní		Combate	Guerrilla-FARC	1		1	 Noche y Niebla # 15 Pp. 145																									
+13	3	2000	Cundinamarca	Macheta	Caserio Corralillos	Combate	Ejército Nacional-FARC	2		2	 Noche y Niebla # 15 Pp. 159																									
+17	3	2000	Risaralda	Pueblo Rico	Corregimiento Santa Cecilia	Incursión	Guerrilla-FARC	3	2	1	 Noche y Niebla # 15 Pp. 165																									
+25	3	2000	Antioquia	Vigia del Fuerte	Cabecera Municipal	Incursión	Guerrilla-FARC	27	24	3	 Noche y Niebla # 15 Pp. 178																									
+25	3	2000	Caldas	Pensilvania	Vereda El Alambrado	Combate	Ejército Nacional-FARC	2	1	1	 Noche y Niebla # 15 Pp. 176																									
+1	4	2000	Tolima	Rioblanco	Cabecera Municipal	Incursión	Guerrilla-FARC	7	4	3	 Noche y Niebla # 16 Pp. 49																									
+10	4	2000	Cauca	Cajibio	Sitio El Cairo	Ataque a Objetivo Militar	Guerrilla-ELN	1		1	 Noche y Niebla # 16 Pp. 66																									
+5	5	2000	Cauca	Mercaderes		Ataque a Objetivo Militar	Ejército Nacional	8	7	1	 Noche y Niebla # 16 Pp. 104																									
+13	5	2000	Bolívar	Simití 	Vereda La Humareda	Combate	Grupos Paramilitares-FARC y ELN	1		1	 Noche y Niebla # 16 Pp. 117																									
+15	5	2000	Valle del Cauca	El Cairo		Emboscada	Guerrilla-FARC	3	1	2	 Noche y Niebla # 16 Pp. 120																									
+18	5	2000	Antioquia	Granada		Incursión	Guerrilla-ELN	2		2	 Noche y Niebla # 16 Pp. 129																									
+8	6	2000	Huila	La Plata	Vereda Candelaria	Combate	 Ejército Nacional-FARC	6	5	1	 Noche y Niebla # 16 Pp. 164																									
+12	6	2000	Antioquia	Frontino	Corregimiento Nutibara	Combate	Grupos Paramilitares-FARC	14	13	1	 Noche y Niebla # 16 Pp. 170																									
+16	6	2000	Sucre	San Onofre	Corregimiento Labarcé	Emboscada	Guerrilla-FARC	5	4	1	 Noche y Niebla # 16 Pp. 175																									
+20	6	2000	Putumayo	Valle del Guamuez		Combate	Grupos Paramilitares-FARC	3		3	 Noche y Niebla # 16 Pp. 182																									
+1	7	2000	Valle del Cauca	Cali	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	2		2	 Noche y Niebla # 17 Pp. 46																									
+12	7	2000	Huila	Colombia	Cabecera Municipal	Incursión	Guerrilla-FARC	4		4	 Noche y Niebla # 17 Pp. 68																									
+14	7	2000	Tolima 	Roncesvalles		Incursión	Guerrilla-FARC	14	13	1	 Noche y Niebla # 17 Pp. 71																									
+27	7	2000	Nariño	San Pablo	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 17 Pp. 94																									
+29	7	2000	Caldas	Pensilvania	Corregimiento Arboleta	Incursión	Guerrilla-FARC	15	13	2	 Noche y Niebla # 17 Pp. 99																									
+1	8	2000	Bolívar	San Pablo	Zona Rural   	Combate	Grupos Paramilitares-ELN	1		1	 Noche y Niebla # 17 Pp. 108																									
+5	8	2000	Chocó	El Carmen	Cabecera Municipal	Incursión	Guerrilla-FARC	11	9	2	 Noche y Niebla # 17 Pp. 118																									
+27	8	2000	Norte de Santander	Tibú	Vereda Las Indias	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	 Noche y Niebla # 17 Pp. 163																									
+28	8	2000	Boyacá	La Uvita	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 17 Pp. 163																									
+29	8	2000	Cauca	Santander de Quilichao	Cabecera Municipal	Incursión	Guerrilla-FARC	3	1	2	 Noche y Niebla # 17 Pp. 164																									
+29	8	2000	Norte de Santander	Labateca	Cabecera Municipal	Incursión	Guerrilla-FARC	5		5	 Noche y Niebla # 17 Pp. 166																									
+10	9	2000	Chocó	Quibdo		Combate	Grupos Paramilitares-Guerrilla No Identificada	6	4	2	 Noche y Niebla # 17 Pp. 198																									
+18	9	2000	Nariño	Pasto	Corregimiento El Encano	Incursión	Guerrilla-FARC	4	3	1	 Noche y Niebla # 17 Pp. 215																									
+18	10	2000	Chocó	Bagado	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	6	5	1	 Noche y Niebla # 18 Pp. 92																									
+29	10	2000	Antioquia 	San Francisco		Incursión	Guerrilla-ELN	5	4	1	 Noche y Niebla # 18 Pp. 109																									
+5	11	2000	Valle del Cauca	Cali	Cabecera Municipal - Barrio Nueva Floresta	Ataque a Objetivo Militar	Guerrilla-ELN	1		1	 Noche y Niebla # 18 Pp. 127																									
+8	11	2000	Valle del Cauca	Calima	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 18 Pp. 132																									
+13	11	2000	Caquetá	Cartagena del Chairá	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 18 Pp. 141																									
+14	11	2000	Valle del Cauca	Cali	Cabecera Municipal - Barrio El Vallado	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	 Noche y Niebla # 18 Pp. 143																									
+6	12	2000	Cauca	Sotará	Vereda Alto Moreno	Ataque a Objetivo Militar	Guerrilla-ELN	3	2	1	 Noche y Niebla # 18 Pp. 181																									
+6--7	12	2000	Antioquia	Granada	Cabecera Municipal	Incursión	Guerrilla-FARC	28	5	23	El Tiempo																									
+8	12	2000	Cauca	Popayán	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	1		1	 Noche y Niebla # 18 Pp. 185																									
+10	12	2000	Huila	Villa Vieja	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 18 Pp. 189																									
+12	12	2000	Nariño	Alban	Cabecera Municipal	Incursión	Guerrilla-FARC	3	2	1	 Noche y Niebla # 18 Pp. 191																									
+12	12	2000	Nariño	Buesaco	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 18 Pp. 190																									
+15	12	2000	Antioquia	Betulia	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 18 Pp. 196																									
+10	1	2001	Norte de Santander	Lourdes	Cabecera Municipal	Incursión	Guerrilla No Identificada	1		1	 Noche y Niebla # 19 Pp. 44																									
+1	2	2001	Bolívar	Montecristo	Corregimiento de Villa Uribe	Combate	Grupos Paramilitares-Guerrilla No Identificada	5	4	1	 Noche y Niebla # 19 Pp. 85																									
+11	2	2001	Huila	Palestina	Cabecera Municipal	Incursión	Guerrilla-FARC	3	1	2	 Noche y Niebla # 19 Pp. 105																									
+20	2	2001	Antioquia	Ituango	Zona Rural	Combate	Grupos Paramilitares-FARC	32	30	2	 Noche y Niebla # 19 Pp. 123																									
+23	2	2001	Cauca	Santander de Quilichao	Vereda El Toro	Combate	Grupos Paramilitares-Guerrilla No Identificada	2		2	 Noche y Niebla # 19 Pp. 130																									
+24	2	2001	Cauca	Miranda		Combate	Ejército Nacional- Grupos Paramilitares- Guerrilla	2		2	 Noche y Niebla # 19 Pp. 132																									
+4	3	2001	Bolívar	San Pablo	Sitio Alto Cañabraval	Combate	Ejército Nacional-ELN	3	2	1	 Noche y Niebla # 19 Pp. 152																									
+4	3	2001	Norte de Santander	Ocaña	Cabecera Municipal - Barrio La Gloria	Combate	Grupos Paramilitares-ELN	1		1	 Noche y Niebla # 19 Pp. 151																									
+4	3	2001	Antioquia	San Luis	Corregimiento El Prodigio	Combate	Grupos Paramilitares-FARC	5		5	 Noche y Niebla # 19 Pp. 152																									
+10	3	2001	Valle del Cauca	Dagua	Zona Rural	Combate	Guerrilla-FARC	17	16	1	 Noche y Niebla # 19 Pp. 163																									
+16	3	2001	Nariño	Olaya Herrera	Bocas de Satinga	Incursión	Guerrilla-FARC	3		3	 Noche y Niebla # 19 Pp. 174																									
+26	3	2001	Valle del Cauca	Tulua	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	4	3	1	 Noche y Niebla # 19 Pp. 196																									
+1	4	2001	Córdoba	Montelíbano	Zona Rural	Combate	Grupos Paramilitares-FARC	18	11	7	 Noche y Niebla # 20 Pp. 39																									
+4	4	2001	Tolima 	Ataco	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 20 Pp. 44																									
+5	4	2001	Bolívar	San Pablo	Corregimiento Vallecitos	Combate	Grupos Paramilitares-ELN	19	15	4	 Noche y Niebla # 20 Pp. 47																									
+15	4	2001	Antioquia	Tarazá	Corregimiento La Caucana	Incursión	Grupos Paramilitares-FARC	20	1	19	 Noche y Niebla # 20 Pp. 62																									
+24	4	2001	Antioquia	San Luis	Corregimiento El Prodigio	Combate	Grupos Paramilitares-FARC	5		5	 Noche y Niebla # 20 Pp. 78																									
+22	5	2001	Nariño	Samaniego	Zona Rural	Combate	Ejército Nacional-ELN	10	9	1	 Noche y Niebla # 20 Pp. 140																									
+8	6	2001	Antioquia	Segovia	IP Puerto Calavera	Combate	Ejército Nacional-ELN	2	1	1	 Noche y Niebla # 20 Pp. 180																									
+12	6	2001	Antioquia	Cocorná	Zona Rural	Combate	Ejército Nacional-ELN	3		3	 Noche y Niebla # 20 Pp. 189																									
+17	6	2001	Bolívar	Tiquisio		Combate	Ejército Nacional-ERP	1		1	 Noche y Niebla # 20 Pp. 196																									
+17	6	2001	Bolívar	Santa Rosa del Sur	Corregimiento de Buenavista	Combate	Grupos Paramilitares-FARC	1		1	 Noche y Niebla # 20 Pp. 197																									
+18	6	2001	Chocó	Unguía	Corregimiento Gilgal	Combate	Grupos Paramilitares-FARC	1		1	 Noche y Niebla # 20 Pp. 197																									
+23	6	2001	Distrito Capital	Bogotá	Cabecera Municipal	Emboscada	Guerrilla-FARC	5		5	 Noche y Niebla # 20 Pp. 206																									
+1	7	2001	Bolívar	San Pablo	Zona Rural	Combate	Grupos Paramilitares-FARC y ELN	53	50	3	 Noche y Niebla # 21 Pp. 25																									
+1	7	2001	Bolívar	Simití 	Zona Rural	Combate	Grupos Paramilitares-FARC y ELN	52	50	2	 Noche y Niebla # 21 Pp. 24																									
+9	7	2001	Cauca	Santander de Quilichao		Combate	Ejército Nacional-FARC	1		1	 Noche y Niebla # 21 Pp. 39																									
+19	7	2001	Antioquia	Alejandría		Combate	Grupos Paramilitares-FARC	8	2	6	 Noche y Niebla # 21 Pp. 59																									
+30	7	2001	Bolívar	San Jacinto	Corregimiento Bajo Grande	Combate	Grupos Paramilitares-FARC	5		5	 Noche y Niebla # 21 Pp. 81																									
+31	7	2001	Antioquia	Alejandría	IP. San José	Combate	Grupos Paramilitares-FARC	18	17	1	 Noche y Niebla # 21 Pp. 81																									
+9	8	2001	Tolima 	Ibagué		Ataque a Objetivo Militar	Guerrilla-FARC	8	7	1	 Noche y Niebla # 21 Pp. 104																									
+11	8	2001	Tolima 	Anzoategui	Cabecera Municipal	Incursión	Guerrilla-FARC	3	2	1	 Noche y Niebla # 21 Pp. 108																									
+16	8	2001	Chocó	El Carmen de Atrato	Caserío El Siete	Combate y Bombardeo	Ejército Nacional-FARC	8	4	4	Noche y Niebla # 21 Pp. 121																									
+24	8	2001	Chocó	Lloró	Cabecera Municipal	Combate	Policía Nacional-Guerrilla	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+25	8	2001	Huila	Santa María		Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 21 Pp. 137																									
+30	8	2001	Antioquia	Ituango	Zona Rural	Combate y Bombardeo	Grupos Paramilitares-FARC	24	18	6	 Noche y Niebla # 21 Pp. 146																									
+1	9	2001	Risaralda	Mistrato	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-ELN	3		3	 Noche y Niebla # 21 Pp. 155																									
+6	9	2001	Huila	Campoalegre	Zona Rural	Combate	Guerrilla-FARC	1		1	 Noche y Niebla # 21 Pp. 164																									
+11	9	2001	Arauca	Tame		Incursión	Guerrilla-FARC	5	3	2	 Noche y Niebla # 21 Pp. 173																									
+22	9	2001	Caquetá	Albania		Combate	Grupos Paramilitares-FARC	3		3	 Noche y Niebla # 21 Pp. 191																									
+25	9	2001	Antioquia	Barbosa		Combate	Grupos Paramilitares-FARC	3		3	 Noche y Niebla # 21 Pp. 199																									
+26	9	2001	Antioquia	Briceño	Zona Rural	Ataque a Objetivo Militar,  Combate y Bombardeo	Guerrilla-FARC	22	17	5	 Noche y Niebla # 21 Pp. 200																									
+28	9	2001	Huila	Acevedo	Cabecera Municipal	Incursión	Guerrilla-FARC	3	2	1	 Noche y Niebla # 21 Pp. 204																									
+8	10	2001	Nariño	Alban	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	4	2	2	 Noche y Niebla # 22 Pp. 8																									
+24	10	2001	Sucre	Ovejas	Zona Rural	Combate	Guerrilla-ELN	2		2	 Noche y Niebla # 22 Pp. 33																									
+8	11	2001	Bolívar	Santa Rosa del Sur	Vereda Pueblo Gato	Combate	Grupos Paramilitares-FARC y ELN	1		1	 Noche y Niebla # 22 Pp. 50																									
+13	11	2001	Bolívar	Santa Rosa   	Zona Rural	Combate	Grupos Paramilitares-ELN	7		7	 Noche y Niebla # 22 Pp. 55																									
+16	11	2001	Cauca	Bolívar	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 22 Pp. 61																									
+16	11	2001	Huila	Baraya	IP. Laureles	Combate	Guerrilla-FARC	6	5	1	 Noche y Niebla # 22 Pp. 60																									
+25	11	2001	Bolívar	Zambrano		Combate	Grupos Paramilitares-FARC	1		1	 Noche y Niebla # 22 Pp. 71																									
+1	12	2001	Chocó	Riosucio	Corregimiento Salaquí	Combate	Grupos Paramilitares-FARC	2		2	 Noche y Niebla # 22 Pp. 78																									
+2	12	2001	Caldas	Riosucio	Corregimiento San Lorenzo	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 22 Pp. 79																									
+9	12	2001	Huila	Gigante		Emboscada	Policía Nacional-FARC	3	2	1	 Noche y Niebla # 22 Pp. 87																									
+13	12	2001	Caldas	Samaná		Combate	Grupos Paramilitares-FARC	5	3	2	 Noche y Niebla # 22 Pp. 90																									
+15	12	2001	Antioquia	Tarazá		Combate	Grupos Paramilitares-FARC	25	19	6	 Noche y Niebla # 22 Pp. 93																									
+17	12	2001	Caquetá	Florencia	Cabecera Municipal	Emboscada	Guerrilla-FARC	3		3	 Noche y Niebla # 22 Pp. 94																									
+25	12	2001	Antioquia	Dabeiba	Cabecera Municipal	Incursión	Grupos Paramilitares	2	1	1	 Noche y Niebla # 22 Pp. 100																									
+25	12	2001	Norte de Santander	El Tarra	Sitio Puerto Remolinos	Combate	Grupos Paramilitares-FARC y ELN	2		2	 Noche y Niebla # 22 Pp. 100																									
+6	1	2002	Antioquia	Carmen de Viboral		Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	 Noche y Niebla # 23 Pp. 5																									
+13	1	2002	Nariño	Alban	Cabecera Municipal	Incursión	Guerrilla-FARC y ELN	10	9	1	 Noche y Niebla # 23 Pp. 12																									
+15	1	2002	Santander	Charta	Sitio El Roble	Combate	Ejército Nacional-ELN	1		1	 Noche y Niebla # 23 Pp. 15																									
+16	1	2002	Chocó 	Tadó	Corregimiento El Tapón	Combate y Bombardeo	Ejército Nacional- Fuerza Aérea Colombiana- Guerrilla No Identificada	6	4	2	 Noche y Niebla # 23 Pp. 16																									
+20	1	2002	Cesar	Valledupar	Corregimiento Aguas Blancas	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 23 Pp. 25																									
+21	1	2002	Cundinamarca	Quipile		Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 23 Pp. 30																									
+24	1	2002	Cauca	Corinto		Combate	Grupos Paramilitares-FARC	2		2	 Noche y Niebla # 23 Pp. 32																									
+25	1	2002	Caldas	Samaná	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 23 Pp. 32																									
+29	1	2002	Cauca	El Tambo	IP Seguengue	Combate	Grupos Paramilitares-FARC y ELN	2		2	 Noche y Niebla # 23 Pp. 43																									
+2	2	2002	Arauca	Tame	Cabecera Municipal	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 23 Pp. 47																									
+20	2	2002	Valle del Cauca	Dagua	Vereda El Placer, IP El Queremal	Combate	Grupos Paramilitares-FARC	28	25	3	 Noche y Niebla # 23 Pp. 71																									
+21	2	2002	Meta	La Macarena	Vereda San Juan de Losada	Bombardeo	Fuerza Aérea Colombiana	4		4	Noche y Niebla # 23 Pp. 72																									
+24	2	2002	Valle del Cauca	Jamundí	Vereda Vellavisa, IP San Antonio	Combate	Grupos Paramilitares-FARC y ELN	9	8	1	 Noche y Niebla # 23 Pp. 77																									
+25	2	2002	Boyacá	Aquitania		Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 23 Pp. 78																									
+28	2	2002	Nariño	Funes	Cabecera Municipal	Incursión	Guerrilla-FARC	2		2	 Noche y Niebla # 23 Pp. 83																									
+4	3	2002	Antioquia	Medellín	Barrio Belencito Corazón y La Independecia	Combate	Grupos Paramilitares-Guerrilla No Identificada	2		2	 Noche y Niebla # 23 Pp. 88																									
+5	3	2002	Valle del Cauca	Buenaventura	IP Cisnero	Combate	Guerrilla-FARC	1		1	 Noche y Niebla # 23 Pp. 88																									
+18	3	2002	Nariño	Policarpa		Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 23 Pp. 110																									
+19	3	2002	Antioquia	La Unión	Zona Rural	Combate	Grupos Paramilitares-FARC	10		10	 Noche y Niebla # 23 Pp. 113																									
+23	3	2002	Antioquia	Yondo	IP El Tigre	Combate	Grupos Paramilitares-ELN	2	1	1	 Noche y Niebla # 23 Pp. 117																									
+31	3	2002	Norte de Santander	Hacari	Cabecera Municipal	Hostigamiento	Guerrilla-FARC	1		1	 Noche y Niebla # 23 Pp. 126																									
+1	4	2002	Cauca	El Tambo	IP Quilace	Combate	Ejército Nacional-FARC	1		1	 Noche y Niebla # 24 Pp. 1																									
+6	4	2002	Sucre	Sucre	Sitio El Lavadero de las Tortugas	Combate	Grupos Paramilitares-ERP	1		1	 Noche y Niebla # 24 Pp. 9																									
+11	4	2002	Caquetá	San Vicente del Caguán	Cabecera Municipal	Hostigamiento	Guerrilla-FARC	1		1	 Noche y Niebla # 24 Pp. 17																									
+11	4	2002	Valle del Cauca	Cali	Corregimientos Pichindé, Los Andes, La Leonera	Combate	Policía Nacional-FARC	9	7	2	 Noche y Niebla # 24 Pp. 17																									
+14	4	2002	Valle del Cauca	Jamundí		Combate	Grupos Paramilitares-FARC	1		1	 Noche y Niebla # 24 Pp. 21																									
+15	4	2002	Nariño	La Cruz	Cabecera Municipal	Incursión	Guerrilla-FARC	4	3	1	 Noche y Niebla # 24 Pp. 23																									
+18	4	2002	Cundinamarca	Medina		Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 24 Pp. 31																									
+1	5	2002	Chocó 	Bojayá (Bellavista)		Ataque a Objetivo Militar	Guerrilla-FARC	7	6	1	 Noche y Niebla # 24 Pp. 45																									
+1	5	2002	Guaviare	Calamar	Cabecera Municipal	Emboscada	Guerrilla-FARC	1		1	 Noche y Niebla # 24 Pp. 44																									
+1	5	2002	Huila	Neiva	Barrio Nueva Granada	Combate	Policía Nacional-FARC	1		1	 Noche y Niebla # 24 Pp. 43																									
+2	5	2002	Chocó	Bojayá (Bellavista)	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	79		79	Noche y Niebla # 24 Pp.47-48 Memoria Histórica Bojayá La guerra sin límites																									
+6	5	2002	Antioquia	Medellín	Cabecera Municipal - Barrio Juan XXIII	Combate	Ejército Nacional-FARC	4	3	1	 Noche y Niebla # 24 Pp. 52																									
+9	5	2002	Tolima	Icononzo		Ataque a Objetivo Militar	Guerrilla-FARC	3	2	1	 Noche y Niebla # 24 Pp. 56																									
+17	5	2002	Nariño	Barbacoas	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 24 Pp. 67																									
+27	5	2002	Antioquia	Medellín	Cabecera Municipal - Barrio 20 de Julio	Combate	Grupos Paramilitares-FARC	2		2	 Noche y Niebla # 24 Pp. 56																									
+27	5	2002	Cundinamarca	Villapinzón		Combate	Grupos Paramilitares-FARC	1		1	 Noche y Niebla # 24 Pp. 84																									
+30	5	2002	Antioquia	Medellín		Combate	Grupos Paramilitares-Guerrilla No Identificada	4		4	 Noche y Niebla # 24 Pp. 89																									
+1	6	2002	Norte de Santander	Tibú		Combate	Ejército Nacional-ELN	1		1	 Noche y Niebla # 24 Pp. 93																									
+1	6	2002	Caquetá	El Doncello	Zona Rural	Combate y Bombardeo	Ejército Nacional-FARC	9	8	1	 Noche y Niebla # 24 Pp. 92																									
+12	6	2002	Bolívar	San Pablo	Vereda Las Aguas	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	 Noche y Niebla # 24 Pp. 108																									
+13	6	2002	Santander	Lebrija		Combate	Ejército Nacional-FARC	4	3	1	 Noche y Niebla # 24 Pp. 109																									
+13	6	2002	Caldas	Pensilvania		Combate	Grupos Paramilitares-FARC	10	4	6	 Noche y Niebla # 24 Pp. 110																									
+20	6	2002	Antioquia	San Luis		Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 24 Pp. 119																									
+21	6	2002	Caldas	Aguadas	Vereda La Rueda	Combate	Grupos Paramilitares-FARC	3		3	 Noche y Niebla # 24 Pp. 122																									
+27	6	2002	Antioquia	Medellín	Cabecera Municipal - Barrio Carpinelo	Combate	Grupos Paramilitares-Guerrilla No Identificada	2		2	 Noche y Niebla # 24 Pp. 130																									
+27	6	2002	Antioquia	Medellín	Cabecera Municipal - Barrio Santo Domingo Savio	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	 Noche y Niebla # 24 Pp. 130																									
+1	7	2002	Caquetá	San José del Fragua	IP La Fragua	Combate	Ejército Nacional-FARC	12	11	1	 Noche y Niebla # 25 Pp. 1																									
+2	7	2002	Antioquia	Briceño	Veredas Travesías, Los Naranjos y El Pescador	Combate	Grupos Paramilitares	6	5	1	 Noche y Niebla # 25 Pp. 3																									
+4	7	2002	Tolima	Coyaima	Sitio Guásimo	Combate	Policía Nacional-FARC	8	6	2	 Noche y Niebla # 25 Pp. 5																									
+10	7	2002	Huila	Oporapa	Cabecera Municipal 	Incursión y Bombardeo	FAC-Guerrilla FARC	1		1	 Noche y Niebla # 25 Pp. 14																									
+10	7	2002	Huila	Tarqui	Cabecera Municipal 	Incursión y Combate	Guerrilla-FARC	3	2	1	 Noche y Niebla # 25 Pp. 14 y 15																									
+11	7	2002	Cauca	Toribío	Cabecera Municipal 	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 25 Pp. 17																									
+26	7	2002	Antioquia	Medellín	Cabecera Municipal  - Comuna 13 - Sector San Javier	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	 Noche y Niebla # 25 Pp. 34																									
+27	7	2002	Arauca	Tame	Zona Rural	Combate	Ejército Nacional-FARC	1		1	 Noche y Niebla # 25 Pp. 34																									
+29	7	2002	Nariño	Causpud (Carlosama)	Casco Urbano	Incursión	Guerrilla-FARC	2	1	1	 Noche y Niebla # 25 Pp. 37																									
+3	8	2002	Antioquia	Medellín	Cabecera Municipal - Comuna 13 -  Barrio La Independencia III	Combate	Ejército Nacional 	1		1	 Noche y Niebla # 25 Pp. 43																									
+3	8	2002	Antioquia	Medellín	Cabecera Municipal - Comuna 13 -  Barrios 20 de Julio, San Javier y Belencito	Combate	Ejército Nacional - Policía Nacional - Fuerza Aérea - CTI - Guerrilla-No Identificada	7	6	1	 Noche y Niebla # 25 Pp. 43																									
+5	8	2002	Córdoba	Valencia	Corregimiento Guadual Central	Combate	Grupos Paramilitares-FARC	26	14	12	 Noche y Niebla # 25 Pp. 47																									
+7	8	2002	Antioquia	Medellín	Cabecera Municipal - Comuna 13, Barrio 20 de Julio	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	 Noche y Niebla # 25 Pp. 50																									
+12	8	2002	Nariño	Los Andes	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	 Noche y Niebla # 25 Pp. 50																									
+16	8	2002	Antioquia	Medellín	Sector Blanquizal	Combate	Grupos Paramilitares-Guerrilla No Identificada	2		2	 Noche y Niebla # 25 Pp. 64																									
+16	8	2002	Antioquia	Medellín	Cabecera Municipal - Barrio Manrique	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	 Noche y Niebla # 25 Pp. 66																									
+29	8	2002	Antioquia	San Luis	 Sitio Pandequeso, Autopista Medellín - Bogotá	Combate	Ejército Nacional-ELN	1		1	 Noche y Niebla # 25 Pp. 81																									
+13	9	2002	Arauca	Saravena	Cabecera Municipal	Incursión	Guerrilla-FARC	4	 	4	Noche y Niebla # 25 Pp. 98-99																									
+19	9	2002	Cundinamarca	Carmen de Carupa	Zona Rural	Combate	Ejército Nacional-FARC	14	13	1	 Noche y Niebla # 25 Pp. 111																									
+1	10	2002	Antioquia	Yondo	Sotio Caño Don Juan	Combate	Ejército Nacional-FARC	1		1	 Noche y Niebla # 26 Pp. 2																									
+3	10	2002	Huila	Isnos		Combate	Ejército Nacional-FARC	1		1	 Noche y Niebla # 26 Pp. 4																									
+3	10	2002	Nariño	Pasto	Caserio Los Alisales	Combate	Policía Nacional-FARC	1		1	 Noche y Niebla # 26 Pp. 4																									
+6	10	2002	Norte de Santander	Hacari	IP Astilleros	Combate	Ejército Nacional-EPL	1		1	 Noche y Niebla # 26 Pp. 8																									
+14	10	2002	Antioquia	Medellín	Comuna 13. Barrios Belencito y Betanía.	Combate	Fuerza Pública-Guerrilla No Identificada	2		2	 Noche y Niebla # 26 Pp. 19																									
+14	10	2002	Nariño	El Charco	Zona Rural	Combate	Grupos Paramilitares-FARC	1		1	 Noche y Niebla # 26 Pp. 20																									
+16	10	2002	Antioquia	Medellín	Cabecera Municipal - Comuna 13	Combate	CTI - Fuerza Pública - DAS - Guerrilla-FARC - Guerrilla-ELN	12	11	1	 Noche y Niebla # 26 Pp. 24 a 26																									
+20	10	2002	Cauca	Paez (Belalcazar)		Ataque a Objetivo Militar y Bombardeo	Guerrilla-FARC	9	8	1	 Noche y Niebla # 26 Pp. 33																									
+24	10	2002	Huila	Tarqui	Caserio El Cedro	Combate	Ejército Nacional-FARC	8	7	1	 Noche y Niebla # 26 Pp. 37																									
+30	10	2002	Antioquia	Nariño	Vereda San Pablo	Combate	Ejército Nacional-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+2	11	2002	Antioquia	San Andrés	Sitio El Hoyo	Combate	Policía Nacional-FARC	6	3	3	 Noche y Niebla # 26 Pp. 48																									
+5	11	2002	Antioquia	Valdivia	Corregimiento Puerto Valdivia	Combate	Ejército Nacional-FARC	8	7	1	 Noche y Niebla # 26 Pp. 52																									
+5	12	2002	Cauca	La Sierra	Vereda Pinar del Río	Ataque a Objetivo Militar	Guerrilla-FARC	2		2	 Noche y Niebla # 26 Pp. 91																									
+7	12	2002	Córdoba	Puerto Libertador	Corregimiento Santa Fé del Claro	Ataque a Objetivo Militar	Guerrilla-FARC	4	2	2	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+12	12	2002	Nariño	Cumbal	Zona Urbana	Incursión	Guerrilla-FARC	5	4	1	 Noche y Niebla # 26 Pp. 99																									
+20	12	2002	Norte de Santander	Cúcuta	Barrio Belén	Ataque a Objetivo Militar	Guerrilla-ELN	9	7	2	 Noche y Niebla # 26 Pp. 108 y 109																									
+29	12	2002	Huila	Algeciras		Ataque a Objetivo Militar y Combate	Guerrilla-FARC	2		2	 Noche y Niebla # 26 Pp. 115																									
+31	12	2002	Nariño	Ricaurte		Combate	Ejército Nacional-ELN	4	3	1	 Noche y Niebla # 26 Pp. 116																									
+30	20	2002	Antioquia	Nariño	Vereda San Pablo	Combate	Ejército Nacional-FARC	1		1	 Noche y Niebla # 26 Pp. 44																									
+18	1	2003	Valle del Cauca	Pradera 	Zona Rural	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	Noche y Niebla # 27, Pp. 48																									
+20	1	2003	Bolívar	Zambrano	Vía a El Carmen de Bolívar - Sitio La Candelaria	Emboscada	Guerrilla-FARC	7	6	1	Noche y Niebla # 27, Pp. 52																									
+21	1	2003	Nariño	Pasto	Vereda Santa Lucía 	Combate	Ejército Nacional-FARC	2	1	1	Noche y Niebla # 27, Pp. 53																									
+22	1	2003	Antioquia 	Granada	Corregimiento Santa Ana	Combate	Fuerza Pública-Guerrilla No Identificada	1		1	Noche y Niebla # 27, Pp. 54																									
+26	1	2003	Arauca	Tame	Zona Rural	Emboscada	Guerrilla-FARC	7	6	1	Noche y Niebla # 27, Pp. 57																									
+8	2	2003	Antioquia 	Abejorral	Sitio La Cascada	Emboscada	Policía Nacional-FARC	3	2	1	Noche y Niebla # 27, Pp. 78																									
+12	2	2003	Huila	Algeciras	Vereda El Mesón	Combate	Ejército Nacional-FARC	4	3	1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+16	2	2003	Caquetá	La Montañita	Zona Rural	Combate	Ejército Nacional-FARC	2		2	Noche y Niebla # 27, Pp. 90																									
+2	3	2003	Caldas	Samaná	Corregimiento San Diego	Combate	Grupos Paramilitares-FARC	1		1	Noche y Niebla # 27, Pp. 110 – 111																									
+14	3	2003	Valle del Cauca	Pradera 	Corregimiento La Carbonera y Corregimiento Los Pinos	Combate	Grupos Paramilitares-FARC	2		2	Noche y Niebla # 27, Pp. 132																									
+22	3	2003	Cauca	Santa Rosa																																
+18	4	2003	Tolima	Dolores	IP San Juan de Villalobos - Vereda Miraflores	Combate	Guerrilla-FARC	3	1	2	Noche y Niebla # 27, Pp. 181																									
+22	4	2003	Meta 	Puerto Lleras	Vereda La Unión	Emboscada	Guerrilla-FARC	2	1	1	Noche y Niebla # 27, Pp. 189																									
+5	5	2003	Antioquia 	Urrao	Zona Rural	Combate	Ejército Nacional-FARC	10		10	Noche y Niebla # 27, Pp. 211																									
+28	5	2003	Cauca 	Piamonte	Vereda Guayuyac	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 27, Pp. 243																									
+14	6	2003	Bolívar	Cantagallo	Corregimiento San Lorenzo	Combate	Ejército Nacional-ELN	1		1	Noche y Niebla # 27, Pp. 268																									
+20	6	2003	Huila 	Neiva	IP San Luis	Combate	Ejército Nacional-FARC	2	1	1	Noche y Niebla # 27, Pp. 276																									
+23	6	2003	Cundinamarca	La Palma	Vereda El Palmar	Combate	Ejército Nacional-FARC	2		2	Noche y Niebla # 27, Pp. 279																									
+2	7	2003	Valle del Cauca	Buenaventura	Corregimiento Zabaletas	Combate	Grupos Paramilitares-FARC	1		1	Noche y Niebla # 28, Pp. 30																									
+9	7	2003	Nariño	Samaniego	Cabecera Municipal	Ataque a Objetivo Militar y Combate	Policía Nacional-FARC	2	1	1	Noche y Niebla # 28, Pp. 42																									
+25	7	2003	Huila 	Rivera		Ataque a Objetivo Militar y Combate	Ejército Nacional - Policía Nacional - INPEC - FARC 	2		2	Noche y Niebla # 28, Pp. 65																									
+16	8	2003	Tolima	Líbano	Corregimiento Santa Teresa	Combate	Grupos Paramilitares-FARC y ELN	1		1	Noche y Niebla # 28, Pp. 98 - 99																									
+15	9	2003	Arauca	Arauca	IP Cabuyaré	Emboscada	Guerrilla-FARC	1		1	Noche y Niebla # 28, Pp. 141																									
+17	9	2003	Antioquia 	Sonsón	Vereda Páramo y Vereda Campamento	Combate	Ejército Nacional-FARC	11	10	1	Noche y Niebla # 28, Pp. 143																									
+16	10	2003	Arauca	Fortul	Sitio La "Y" de Palmaritos	Emboscada	Guerrilla-FARC	2		2	Noche y Niebla # 28, Pp. 185																									
+14	11	2003	Arauca	Saravena	Cabecera Municipal	Combate	Fuerza Pública-Guerrilla No Identificada	2	1	1	Noche y Niebla # 28, Pp. 219																									
+19	11	2003	Arauca	Fortul	IP Puerto Nidia	Combate	Grupo Armado No Identificado	2		2	Noche y Niebla # 28, Pp. 224																									
+27	11	2003	Arauca	Tame	Sitio Puerto Jordán 	Ataque a Objetivo Militar	Guerrilla-FARC	2		2	Noche y Niebla # 28, Pp. 231																									
+27	11	2003	Arauca	Tame	Caserío Pueblo Nuevo	Combate	Ejécito Nacional-Guerrilla No Identificada	2		2	Noche y Niebla # 28, Pp. 231																									
+1	12	2003	Sucre	Galeras	Corregimiento de Baraya - Vereda Punta de Blanco	Emboscada	Guerrilla-FARC	7	6	1	Noche y Niebla # 28, Pp. 237																									
+13	12	2003	Caquetá	Cartagena del Chairá	Sitio Corrales	Ataque a Objetivo Militar y Combate	Policía Nacional-FARC	1		1	Noche y Niebla # 28, Pp. 248 - 249																									
+15	12	2003	Santander 	Barrancabermeja	Zona Rural	Combate	Grupos Paramilitares-FARC	4		4	Noche y Niebla # 28, Pp. 251																									
+28	12	2003	Bolívar	Montecristo		Incursión y Combate	Guerrilla-ERP	1		1	Noche y Niebla # 28, Pp. 258																									
+30	12	2003	Bolívar	San Pablo	Corregimiento de Pozo Azul	Ataque a Objetivo Militar y Combate	Grupos Paramilitares-FARC y ELN	4		4	Noche y Niebla # 28, Pp. 259																									
+11	1	2004	Antioquia	Cañasgordas	Corregimiento Juntas de Uramita	Combate	Grupos Paramilitares-FARC	2	1	1	Noche y Niebla # 29. Pp. 39																									
+24	1	2004	Nariño	La Llanada	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Noche y Niebla # 29. Pp. 49																									
+2	2	2004	Antioquia	Apartadó	IP San José de Apartadó - Vereda La Unión	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 29. Pp. 66																									
+8	2	2004	Cauca	Argelia		Combate	Policía Nacional-FARC	1		1	Noche y Niebla # 29. Pp. 72																									
+9	2	2004	Córdoba	Puerto Libertador	Comunidad Ibudó	Combate	Grupos Paramilitares-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+1	3	2004	Huila	Algeciras	Casco Urbano	Incursión y Combate	Guerrilla-FARC	2		2	Noche y Niebla # 29. Pp. 101																									
+18	4	2004	Caquetá	Puerto Rico 	Vereda La Esmeralda	Combate	Policía Nacional-FARC	7	5	2	Noche y Niebla # 29. Pp. 159																									
+25	5	2004	Bolívar	El Carmen de Bolívar	Vereda San Rafael	Combate	Armada Nacional-Fuerza Aérea Colombiana-FARC	3	2	1	Noche y Niebla # 29. Pp. 217																									
+28	5	2004	Antioquia	Murindo	Casco Urbano	Incursión	Guerrilla-FARC	1		1	Noche y Niebla # 29. Pp. 220-221																									
+4	8	2004	Valle del Cauca	Tulua	Corregimiento La Marina	Combate	 Policía Nacional-FARC	1		1	Noche y Niebla # 30. Pp. 10																									
+7	8	2004	Huila	Baraya	Zona Rural	Combate	Ejército Nacional-FARC	3		3	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+13	8	2004	Huila	Gigante	Vereda El Santuario	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 30. Pp. 110																									
+24	9	2004	Cauca	Bolívar		Combate	Grupos Paramilitares-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+22	10	2004	Valle del Cauca	Bolívar		Combate	Grupos Paramilitares-FARC	1		1	Noche y Niebla # 30. Pp. 197																									
+24	11	2004	Chocó	Medio San Juan	Corregimiento Bebedó	Combate	Grupos Paramilitares-FARC	12	8	4	Noche y Niebla # 30. Pp. 239																									
+28	11	2004	Caldas	Salamina	Corregimiento San Félix - Vereda San Rafael	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 30. Pp. 243																									
+30	11	2004	Valle del Cauca	Buga		Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Noche y Niebla # 30. Pp. 246																									
+2	12	2004	Sucre	Ovejas	Zona Rural	Combate	Grupo Armado No Identificado	1		1	Noche y Niebla # 30. Pp. 256																									
+18	12	2004	Guaviare	San José del Guaviare	Zona Rural	Emboscada	Guerrilla-FARC	1		1	Noche y Niebla # 30. Pp. 268																									
+10	1	2005	Sucre	Ovejas		Combate	Armada Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 33																									
+25	1	2005	Tolima	Ibagué	Casco Urbano	Ataque a Objetivo Militar y Combate	Policía Nacional-FARC	6		6	Noche y Niebla # 31. Pp. 49																									
+25	1	2005	Cesar	Pailitas	Zona Rural	Combate	Grupos Paramilitares-FARC	3		3	Noche y Niebla # 31. Pp. 49																									
+5	2	2005	Antioquia	Urrao	Vereda Montañitas	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 72																									
+12	2	2005	Norte de Santander	El Tarra	Casco Urbano	Combate	Ejército Nacional-Policía Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 80																									
+16	3	2005	Tolima 	Ibagué	Corregimiento Coello - Cocora	Emboscada	Policía Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 128																									
+19	3	2005	Tolima	Chaparral	IP La Marina	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 130																									
+15	4	2005	Huila 	Baraya	IP La Troja	Combate	Ejército Nacional-Policía Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 167																									
+28	4	2005	Huila 	El Hobo	Zona Rural	Emboscada	Policía Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 178																									
+2	5	2005	Tolima 	Ibagué		Combate	Ejército Nacional-Policía Nacional-FARC	1		1	Noche y Niebla # 31. Pp. 191																									
+7	5	2005	Bolívar	San Pablo	Caserío Cerro Azul	Emboscada	Guerrilla-ELN	1		1	Noche y Niebla # 31. Pp. 197																									
+9	7	2005	Caldas	Samaná	Corregimiento Florencia	Combate	Grupos Paramilitares-Guerrilla No Identificada	1		1	Noche y Niebla # 32. Pp. 40																									
+14	7	2005	Valle del Cauca	Jamundí		Emboscada	Ejército Nacional-ELN	12	11	1	Noche y Niebla # 32. Pp. 47																									
+1	8	2005	Risaralda	Pueblo Rico	Corregimiento Villa Claret	Combate	Ejército Nacional-ELN	1		1	Noche y Niebla # 32. Pp. 71																									
+17	8	2005	Nariño	Olaya Herrera	Zona Rural	Combate	Armada Nacional-FARC	2		2	Noche y Niebla # 32. Pp. 85																									
+3	9	2005	Cauca	El Tambo	IP Huisitó	Combate	Ejército Nacional-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+7	9	2005	Nariño	Samaniego		Combate	Policía Nacional-ELN	1		1	Noche y Niebla # 32. Pp. 108																									
+7	9	2005	Putumayo	Valle del Guamuez	IP El Placer	Combate	Grupos Paramilitares-FARC	3		3	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+11	9	2005	Nariño	Tumaco	Zona Rural	Combate	Armada Nacional-FARC	5	3	2	Noche y Niebla # 32. Pp. 110																									
+30	10	2005	Caldas	Samaná	Vereda San Rafael	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 32. Pp. 148																									
+11	11	2005	Nariño	Tumaco		Combate	Policía Nacional-FARC	1		1	Noche y Niebla # 32. Pp. 162																									
+8	12	2005	Nariño	Los Andes	Vereda Las Granadas	Combate	Grupos Paramilitares-FARC	1		1	Noche y Niebla # 32. Pp. 183																									
+19	1	2006	Cauca	Caloto	Cabecera Municipal	Combate	 Ejército Nacional-FARC	1		1	Revista Noche y Niebla # 33 Pp. 32																									
+4	3	2006	Caldas	Marulanda	Corregimiento de Montebonito	Incursión	Guerrilla-FARC	2		2	Revista Noche y Niebla # 33 Pp. 60																									
+14	4	2006	Bolívar	El Carmen de Bolívar	Sitio "El Cocuelo"	Combate	 Infanteria de Marina-FARC	1		1	Revista Noche y Niebla # 33 Pp. 87																									
+14	5	2006	Arauca	Arauquita	Vereda Guayacan	Combate	Ejército Nacional	1		1	Revista Noche y Niebla # 33 Pp. 103																									
+21	5	2006	Cauca	Piendamó	IP Corrales San Pedro	Ataque a Objetivo Militar	Guerrilla-FARC	3	2	1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+26	6	2006	Antioquia	Anza	Corregimiento Guintar	Combate	Ejército Nacional-FARC	2		2	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+4	8	2006	Tolima	Casabianca	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 70																									
+4	8	2006	Valle del Cauca	Cali	Cabecera Municipal- Barrio el Vallado	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 71																									
+30	8	2006	Cauca	El Tambo	Vereda El Tablón	Combate	Guerrilla-FARC	2	1	1	Revista Noche y Niebla # 34-35 Pp. 89																									
+2	9	2006	Norte de Santander	Tibú	Vereda Campo Seis	Hostigamiento	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 96																									
+25	9	2006	Cauca	Patia (El Bordo)	Vereda Quintero El Triunfo	Combate	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 108																									
+1	11	2006	Córdoba	Montelíbano	Corregimiento Tierradentro	Ataque a Objetivo Militar	Guerrilla-FARC	23	20	3	Revista Noche y Niebla # 34-35 Pp. 145																									
+8	11	2006	Norte de Santander	La Playa	Vereda La Vega	Combate	Ejército Nacional-EPL	4	2	2	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+16	2	2007	César	La Gloria	Corregimiento de Simaña -  Sitio Playones de Molino	Emboscada	Ejército Nacional	1		1	Revista Noche y Niebla # 34-35 Pp. 208																									
+16	2	2007	Meta	Vistahermosa	Vereda Los Alpes	Emboscada	Ejército Nacional	4	2	2	Revista Noche y Niebla # 34-35 Pp. 208																									
+21	2	2007	Exterior	Venezuela	  Estado de Apure - Localidad de El Amparo	Combate	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 210																									
+16	3	2007	Tolima	Ibagué	Corregimiento El Salado- Vereda La Flor	Combate	Ejército Nacional-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 231																									
+14	4	2007	Valle del Cauca	Buenaventura	Cabecera Municipal - Barrio  Viento Libre	Hostigamiento	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 250																									
+29	4	2007	Valle del Cauca	Buenaventura	Barrio El Cristal	Hostigamiento	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 259																									
+14	5	2007	Tolima	Ibagué	Caserio Llanitos	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Revista Noche y Niebla # 34-35 Pp. 274																									
+22	5	2007	La Guajira	Riohacha	I.P. Palomino - El Caño - sitio El Caño	Combate	Guerrilla-ELN	1		1	Revista Noche y Niebla # 34-35 Pp. 279																									
+16	6	2007	Tolima	Venadillo	Sitio Los Pinos	Emboscada	Guerrilla-FARC	3	2	1	Revista Noche y Niebla # 34-35 Pp. 299																									
+12	7	2007	Caldas	Marulanda	Vereda El Brasil	Combate	Guerrilla-FARC	1		1	Revista Noche y Niebla # 36 Pp. 53																									
+23	10	2007	Tolima	Roncesvalles	Roncesvalles	Incursión	Guerrilla-FARC	2	1	1	Revista Noche y Niebla # 36 Pp. 129																									
+26	10	2007	Valle del Cauca	Buenaventura	I.P. Bajo Calima	Ataque a Objetivo Militar	Guerrilla-FARC	3	2	1	Revista Noche y Niebla # 36 Pp. 129																									
+22	11	2007	Bolívar	Cantagallo	Veredas Paraguas Y Patio Bonito	Hostigamiento	Guerrilla-FARC	4	3	1	Revista Noche y Niebla # 36 Pp. 144																									
+21	1	2008	Arauca	Arauquita	Sitio Mate Coco	Combate	Guerrilla-FARC y ELN	2		2	Revista Noche y Niebla N°37. Pp. 67																									
+16	3	2008	Cauca	Toribio	IP Tacueyó	Bombardeo	Ejército Nacional	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+25	5	2008	Caquetá	La Montañita	Vereda Miramar	Combate	Ejército Nacional-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+2	11	2008	Nariño	Ricaurte	Zona Rural	Combate	Ejército Nacional-FARC	1		1	Revista Noche y Niebla N°38. Pp. 181																									
+13	1	2009	Nariño	Roberto Payán	Cabecera Municipal	Incursión	Guerrilla-FARC	3		3	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+12	2	2009	Norte de Santander	Convención	Sector La Primavera	Emboscada	Guerrilla-ELN	4	3	1	Revista Noche y Niebla N°39. Pp. 89																									
+5	5	2009	Cauca	López de Micay	Vereda La Rotura	Combate	Ejército Nacional	1		1	Revista Noche y Niebla N°39. Pp. 176																									
+20	7	2009	Cauca	Corinto	Cabecera Municipal	Combate	Policía Nacional-FARC	2		2	Revista Noche y Niebla N°40. Pp. 97																									
+15	8	2009	Nariño	Magüi-Payan	Vereda Bellavista	Combate	FARC-ELN	3	1	2	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+15	11	2009	Bolívar	Santa Rosa del Sur	Vereda Bocas del Ventarrón	Combate	Ejército Nacional-FARC	1		1	Revista Noche y Niebla N°40. Pp. 198																									
+16	11	2009	Bolívar	Santa Rosa del Sur	Vereda Bocas del Ventarrón	Combate	Ejército Nacional-FARC	1		1	Revista Noche y Niebla N°40. Pp. 199																									
+16	11	2009	Bolívar	Santa Rosa del Sur	Vereda Bocas del Ventarrón	Combate	Ejército Nacional-Guerrilla No Identificada	1		1	Revista Noche y Niebla N°40. Pp. 199																									
+14	2	2010	Guaviare	San José del Guaviare	Zona Rural-Sitio Tres Tejas y Triunfo Dos	Emboscada	Guerrilla-FARC	6	4	2	Revista Noche y Niebla N°42. Actualizaciones. Pp. 191																									
+14	2	2010	Huila	Tello	Vereda San Andrés	Combate	Ejército Nacional-FARC	1		1	Revista Noche y Niebla N°41. Pp. 82																									
+2	5	2010	Cauca	Caloto	Vereda Los Chorros - IP El Palo	Combate	Ejército Nacional-FARC	1		1	Revista Noche y Niebla N°42. Actualizaciones Pp. 194																									
+6	5	2010	Cauca	Toribío	Resguardo de Tacueyo	Combate	Ejército Nacional-FARC	2		2	Revista Noche y Niebla N°41. Pp. 134																									
+28	5	2010	Cauca	Argelia	Corregimiento El Plateado	Combate	Ejército Nacional-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+8	7	2010	Cauca	Suárez		Ataque a Objetivo Militar	Guerrilla-FARC	4	2	2	Revista Noche y Niebla N°42. Pp. 55																									
+30	7	2010	Caquetá	Solita		Emboscada	Guerrilla-FARC	1		1	Revista Noche y Niebla N°42. Pp. 70																									
+29	9	2010	Caquetá	La Montañita	IP La Unión Peneya	Emboscada	Ejército Nacional	1		1	Revista Noche y Niebla N°42. Pp. 107																									
+30	9	2010	Nariño	Barbacoas	IP Buenavista	Hostigamiento	Guerrilla-FARC	2		2	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+6	11	2010	Meta	La Macarena	Sitio La Punta	Combate	Ejército Nacional-FARC	1		1	Revista Noche y Niebla N°42. Pp. 133																									
+13	11	2010	Nariño	Barbacoas	Corregimiento Buenavista	Incursión	Guerrilla-FARC	3	2	1	Revista Noche y Niebla N°42. Pp. 135																									
+17	11	2010	Cauca	Toribío	Cabecera Municipal	Combate	Policía Nacional-FARC-EP	2	1	1	Revista Noche y Niebla N°42. Pp. 137																									
+7	1	2011	Caquetá	San Vicente del Caguán	Vía a Puerto Rico	Combate	Ejército Nacional-FARC	9	8	1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+8	2	2011	Cauca	Toribío	IP Tacueyó	Combate	Ejército Nacional-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+27	2	2011	Cauca	López de Micay	IP Santa Ana	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+28	2	2011	Cauca	Caloto		Emboscada	Guerrilla-FARC	2		2	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+1	3	2011	Antioquia	Mutatá	Vereda Nuevo Mundo	Emboscada	Guerrilla-FARC	1	 	1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+5	3	2011	Cauca	Cajibio	IP El Carmelo	Combate	Ejército Nacional y Policía Nacional-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+6	3	2011	Nariño	El Charco	Cabecera Municipal-Barrio El Porvenir	Combate	Grupos Paramilitares	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+12	3	2011	Meta	Vistahermosa	Vereda Mata de Bambú	Combate	Ejército Nacional-Guerrilla No Identificada	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+18	3	2011	Norte de Santander	San Calixto	Cabecera Municipal-Barrio Villa Nueva	Ataque a Objetivo Militar	Guerrilla-FARC	3		3	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+17	4	2011	Chocó	Riosucio	Río Quiparadó	Bombardeo	Ejército Nacional	3		3	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+3	5	2011	Arauca	Fortul	Sitio La Y	Ataque a Objetivo Militar	Guerrilla No Identificada	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+3	5	2011	Arauca	Fortul		Ataque a Objetivo Militar	Guerrilla-ELN	3	2	1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+12	5	2011	Nariño	Tumaco	Zona Rural	Combate	Ejército Nacional-Guerrilla No Identificada	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+28	5	2011	Antioquia	Cáceres	Corregimiento El Tigre	Combate	Grupos Paramilitares	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+20	6	2011	Bolívar	San Pablo	Corregimiento Cerro Azul-Vereda Palo de Coco	Bombardeo	Fuerza Aérea Colombiana	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+13	9	2011	Cauca	Argelia	Cabecera Municipal	Incursión	Guerrilla-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+16	9	2001	Cauca	Caloto	Vereda El Credo	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+6	11	2011	Cauca	Piendamó	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+1	12	2011	Cauca	López de Micay	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	3	2	1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+30	12	2011	Putumayo	Orito	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	2		2	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+27	3	2012	Norte de Santander	Teorama	Corregimiento San Pablo	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+2	5	2012	Nariño	Olaya Herrera	Vereda Bellavista	Combate	Grupos Paramilitares-FARC y ELN	1		1	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+2	6	2012	Caquetá	La Montañita	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	5	2	3	Banco de Datos de Derechos Humanos y Violencia Política del CINEP																									
+10	7	2012	Cauca	Argelia	Cabecera Municipal	Ataque a Objetivo Militar	Guerrilla-FARC	3		3	Noche y Niebla # 46 Pp. 100																									
+31	7	2012	Antioquia	Dabeiba	Vía a Mutatá	Bombardeo	Ejército Nacional	1		1	Noche y Niebla # 46 Pp. 118																									
+21	8	2012	Cauca	Caloto	Vereda La Pedregosa	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 46 Pp. 141																									
+23	9	2012	Bolívar	Achí	Vereda Río Nuevo	Combate	Ejército Nacional-BACRIM	1		1	Noche y Niebla # 46 Pp. 169-170																									
+4	10	2012	Antioquia	Apartadó	IP San José de Apartadó	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 46 Pp. 184																									
+14	10	2012	Arauca	Tame		Ataque a Objetivo Militar	Guerrilla-FARC	3	 	3	Noche y Niebla # 46 Pp. 190-191																									
+29	10	2012	Caquetá	Cartagena del Chairá	Vereda Miraflores	Combate	Ejército Nacional-FARC	1		1	Noche y Niebla # 46 Pp. 201																									
+6	11	2012	Nariño	Tumaco	Corregimiento Llorente	Ataque a Objetivo Militar	Guerrilla-FARC	1		1	Noche y Niebla # 46 Pp. 208																									
+23	12	2012	Nariño	Tumaco	Cabecera Municipal	Combate	Los Rastrojos	1		1	Noche y Niebla # 46 Pp. 229																									
