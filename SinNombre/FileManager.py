@@ -11,7 +11,13 @@ class FileManager():
 			self.recordError("The configuration file no exists")
 	
 	def recordError(self,error):
-		print(error)
+		try:      
+			with open(self.path["generatedFilePath"] + file + ".log",'w') as g:#Open the file 
+				g.write(error)
+		except IOError as error:
+			with open(self.path["generatedFilePath"] + file + ".log",'a') 
+			print error
+	
 	
 	def writeFileJSON(self,file, line):
 		try:      

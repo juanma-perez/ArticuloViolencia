@@ -1,4 +1,11 @@
 {
 	"filePath": "Files/",
-	"generatedFilePath":"Generated Files/"
+	"generatedFilePath":"Generated Files/",
+	"redis":{
+		"host":"localhost",
+		"port":6379
+	},
+	"node":{
+		"port":8080
+	}
 }

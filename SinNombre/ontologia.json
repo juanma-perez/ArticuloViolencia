@@ -1,0 +1,11 @@
+{
+	"nodos":{
+	"Persona":["f_nacimiento","f_fallecimiento","n_persona","alias"],
+	"Organización":["f_fundacion","n_org"],
+	"Suceso":["f_suceso","n_suceso","sinopsis","t_hecho"],
+	"Lugar":["n_lugar","t_lugar","t_area"],
+	"Fuente":["detalle"]
+	
+	}
+}
+
