@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 import json 
+import time
+
 
 
 class FileManager():
@@ -12,12 +14,14 @@ class FileManager():
 	
 	def recordError(self,error):
 		try:      
-			with open(self.path["generatedFilePath"] + file + ".log",'w') as g:#Open the file 
+			with open(self.path[u"generatedFilePath"] + self.path[u"logFile"],'a') as g:#Open the file 
+				g.write("--------------------------------------------------------\n")
+				g.write(time.strftime("%x") + " " + time.strftime("%X") + "\n")
 				g.write(error)
+				g.write("\n")
 		except IOError as error:
-			with open(self.path["generatedFilePath"] + file + ".log",'a') 
-			print error
-	
+			open(self.path[u"generatedFilePath"] + self.path[u"logFile"],'w')
+			self.recordError(error)
 	
 	def writeFileJSON(self,file, line):
 		try:      
@@ -27,6 +31,16 @@ class FileManager():
 		except IOError:
 			open(file,'w')
 			self.writeFileJSON(self.path["generatedFilePath"] + file + ".json", line)
+		except Exception as error:
+			self.recordError("Error: " + error)
+
+	def writeFile(self,file, line):
+		try:      
+			with open(self.path["generatedFilePath"] + file ,'a') as g:#Open the file 
+				g.write(line + "\n")
+		except IOError:
+			open(file,'w')
+			self.writeFileJSON(self.path["generatedFilePath"] + file, line)
 		except Exception as error:
 			self.recordError("Error: " + error)
 

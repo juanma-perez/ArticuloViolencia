@@ -1,6 +1,7 @@
 {
 	"filePath": "Files/",
 	"generatedFilePath":"Generated Files/",
+	"logFile":"Sin nombre.log",
 	"redis":{
 		"host":"localhost",
 		"port":6379
