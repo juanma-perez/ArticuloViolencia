@@ -2,8 +2,6 @@
 import json 
 import time
 
-
-
 class FileManager():
 	def __init__(self):
 		try:      
@@ -32,7 +30,8 @@ class FileManager():
 			open(file,'w')
 			self.writeFileJSON(self.path["generatedFilePath"] + file + ".json", line)
 		except Exception as error:
-			self.recordError("Error: " + error)
+			print error
+			#self.recordError("Error: " + str(error))
 
 	def writeFile(self,file, line):
 		try:      
@@ -42,11 +41,18 @@ class FileManager():
 			open(file,'w')
 			self.writeFileJSON(self.path["generatedFilePath"] + file, line)
 		except Exception as error:
-			self.recordError("Error: " + error)
+			print error
+			 #self.recordError("Error: " + error)
 
 	def readFile(self, file):
 		try:      
 			return open(self.path["filePath"] + file,'r')
 		except IOError:
 			self.recordError("No se puede leer el archivo: " + file)
-		
+
+	def leerJson(self, file):
+		try:
+			with open(file) as data_file:
+				return json.load(data_file)
+		except IOError:
+			self.recordError("No se puede leer el archivo JSON: " + file)
