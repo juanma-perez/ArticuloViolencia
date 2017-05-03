@@ -21,3 +21,6 @@ def getSubArray(arreglo,posicionIni, posicionFin):
 
 def removeSubString(string, sub):
 	return string.strip(sub)
+
+def deleteSubString(string, sub):
+	return string.remove(sub)

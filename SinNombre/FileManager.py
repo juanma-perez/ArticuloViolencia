@@ -46,7 +46,13 @@ class FileManager():
 
 	def readFile(self, file):
 		try:      
-			return open(self.path["filePath"] + file,'r')
+			return open(self.path["generatedFilePath"] + file,'r')
+		except IOError:
+			self.recordError("No se puede leer el archivo: " + file)
+
+	def readFileGenerated(self, file):
+		try:      
+			return open(self.path["generatedFilePath"] + file,'r')
 		except IOError:
 			self.recordError("No se puede leer el archivo: " + file)
 
