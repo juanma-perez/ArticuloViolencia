@@ -5,7 +5,7 @@ import Charmer
 from FileManager import FileManager
 
 fileManager = FileManager()
-ontologia = fileManager.leerJson("ontologia.json")
+ontologia = fileManager.leerJson("ontologia1.json")
 
 def sendRedis(callback):
 	redisClient = redis.StrictRedis(host='localhost', port=6379, db=0) 	
@@ -38,10 +38,18 @@ def getSet(query):
 		return redisClient.smembers(query)
 	return sendRedis(function)
 
+def addString(root,json):
+        for subRoot in json:
+                clave=subRoot
+                print("set "+clave.encode("utf-8")+" " +json[subRoot].encode("utf-8"))
+                def function(redisClient):
+                        return "Registros insertados: " + str(redisClient.set(clave,json[subRoot]))
+                print(sendRedis(function))
+
 def cargarOntologia():
 	addSet("nodos", ontologia["nodos"]);		
 	addSet("relaciones", ontologia["relaciones"]);
-	addSet("sinonimos", ontologia["sinonimos"]);
+	addString("sinonimos", ontologia["sinonimos"]);
 	set("sinonimos_atr", ontologia["sinonimos_atr"]);
 
 cargarOntologia()
