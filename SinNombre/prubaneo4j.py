@@ -15,38 +15,25 @@ def cargarDatos():
             print "Creo Departamento "+doc['Nombre']
             if(doc['Municipios']):
                 for item in doc['Municipios']:
+                    print item.encode('UTF-8')
                     session.run("CREATE (m:Lugar {n_lugar:{muni},t_lugar:'Municipio'})",{"muni":item})
-                    print "Creo municipio "+item                    
+                    session.run("MATCH (u:Lugar {n_lugar:{dept}}) "+
+                                "MATCH (v:Lugar {n_lugar:{mun}}) "+
+                                "MERGE (u)-[r:SeConforma]->(v)",
+                                {"mun":item,"dept":doc['Nombre']})                 
         except:
             print "este Departamento no tiene municipios"
-    session.close()
-    
-def crearRelaciones():
-    session = driver.session()
-    array=[]
-    for line in open('DeptosMuniColombia.json', 'r'):
-        array.append(json.loads(line))
-    for doc in array:
-        try:
-            if(doc.has_key('Municipios')):
-                for item in doc['Municipios']:
-                    print "Departamento "+ doc['Nombre']+" Municipio "+item
-                    session.run("MATCH (d:Lugar {n_lugar:{depto}}) "+
-                                "MATCH (m:Lugar {n_lugar:{muni}}) "+
-                                "MERGE (d)-[r:SeConforma]->(m)",
-                                {"muni":item,"depto":doc['Nombre']})
-        except:
-            print ":)"
-        
-    session.close()
+   
 
 def borrarDatos():
+    session = driver.session()
     try:
         session.run("MATCH (n) DETACH DELETE n")
         print "Borrando datos..."
+        
     except:
             print "Unexpected error to Delete"
 
-#borrarDatos()
+borrarDatos()
 #cargarDatos()
-#crearRelaciones()
+
