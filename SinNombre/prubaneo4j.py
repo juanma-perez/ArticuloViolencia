@@ -11,16 +11,22 @@ def cargarDatos():
     for doc in array:
         try:
             session.run("CREATE (d:Lugar {n_lugar:{depto},t_lugar:'Departamento'})",
-                        {"depto":doc['Nombre']})
-            print "Creo Departamento "+doc['Nombre']
+                        {"depto":doc['Nombre'].encode('UTF-8')})
+            #print "Creo Departamento "+doc['Nombre']
             if(doc['Municipios']):
                 for item in doc['Municipios']:
-                    print item.encode('UTF-8')
-                    session.run("CREATE (m:Lugar {n_lugar:{muni},t_lugar:'Municipio'})",{"muni":item})
+                    #print item.encode('UTF-8')
+                    session.run("CREATE (m:Lugar {n_lugar:{muni},t_lugar:'Municipio'})",{"muni":item.encode('UTF-8')})
                     session.run("MATCH (u:Lugar {n_lugar:{dept}}) "+
                                 "MATCH (v:Lugar {n_lugar:{mun}}) "+
                                 "MERGE (u)-[r:SeConforma]->(v)",
-                                {"mun":item,"dept":doc['Nombre']})                 
+                                {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})
+                    result = session.run("MATCH (u:Lugar {n_lugar:{dept}}) "+
+                                         "MATCH (v:Lugar {n_lugar:{mun}}) RETURN u.n_lugar AS dept, v.n_lugar AS muni",
+                                         {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})
+                    
+                    for record in result:
+                        print("%s %s" % (record["dept"], record["muni"]) + " Resultado de la insercion")
         except:
             print "este Departamento no tiene municipios"
    
@@ -35,5 +41,5 @@ def borrarDatos():
             print "Unexpected error to Delete"
 
 borrarDatos()
-#cargarDatos()
+cargarDatos()
 
