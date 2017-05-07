@@ -62,3 +62,4 @@ class FileManager():
 				return json.load(data_file)
 		except IOError:
 			self.recordError("No se puede leer el archivo JSON: " + file)
+

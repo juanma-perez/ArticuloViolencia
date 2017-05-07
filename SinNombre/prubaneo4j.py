@@ -1,39 +1,72 @@
 import json
 from neo4j.v1 import GraphDatabase, basic_auth
+from tqdm import tqdm
 
 driver = GraphDatabase.driver("bolt://localhost:7687", auth=basic_auth("neo4j", "8112"))
 
-def cargarDatos():
+def cargarDatosDepto():
     session = driver.session()
-    array=[]
-    for line in open('DeptosMuniColombia.json', 'r'):
-        array.append(json.loads(line))
-    for doc in array:
-        try:
-            session.run("CREATE (d:Lugar {n_lugar:{depto},t_lugar:'Departamento'})",
-                        {"depto":doc['Nombre']})
-            print "Creo Departamento "+doc['Nombre']
-            if(doc['Municipios']):
-                for item in doc['Municipios']:
-                    print item.encode('UTF-8')
-                    session.run("CREATE (m:Lugar {n_lugar:{muni},t_lugar:'Municipio'})",{"muni":item})
-                    session.run("MATCH (u:Lugar {n_lugar:{dept}}) "+
-                                "MATCH (v:Lugar {n_lugar:{mun}}) "+
-                                "MERGE (u)-[r:SeConforma]->(v)",
-                                {"mun":item,"dept":doc['Nombre']})                 
-        except:
-            print "este Departamento no tiene municipios"
+    try:
+        with open('DeptosMuniColombia.json', 'r') as f:
+            print ("Inicia carga de Departamentos y municipios")
+            lineas  = tqdm(f.readlines())
+            for line in lineas:
+                doc = json.loads(line)  
+                session.run("CREATE (d:Site {n_site:{depto},t_site:'Departamento'})",
+                            {"depto":doc['Nombre'].encode('UTF-8')})
+                #print "Creo Departamento "+doc['Nombre']
+                if(doc.has_key('Municipios')):
+                    for item in doc['Municipios']:
+                        #print item.encode('UTF-8')
+                        session.run("CREATE (m:Site {n_site:{muni},t_site:'Municipio'})",{"muni":item.encode('UTF-8')})
+                        session.run("MATCH (u:Site {n_site:{dept}}) "+
+                                    "MATCH (v:Site {n_site:{mun}}) "+
+                                    "MERGE (u)-[r:consist]->(v)",
+                                    {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})
+                        result = session.run("MATCH (u:Site {n_site:{dept}}) "+
+                                             "MATCH (v:Site {n_site:{mun}}) RETURN u.n_site AS dept, v.n_site AS muni",
+                                             {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})
+                        
+                    """    for record in result:
+                            straa = "%s %s" % (record["dept"], record["muni"]) + " Resultado de la insercion"
+                            print(straa.encode('UTF-8'))"""
+
+        print "Departamentos y municipios cargados"
+    except:
+            print "Error en la carga de departamentos y municipios"
    
+org = []
+def cargarEstructura(jestructure):
+    session = driver.session()    
+    #"dia_suceso","mes_suceso","a\u00F1o_sucesceso","sinopsis","t_hecho" in org:
+    session.run("CREATE (suceso:Event {day_event:{day_event},month_event:{month_event},year_event:{year_event}, synopsis:{synopsis}, t_event:{t_event}, n_event:{n_event}, id:{id}})", jestructure["Event"])
+    if jestructure["Organization"]["n_org"] in org:
+        pass
+    else:
+        session.run("CREATE (organizacion:Organization {n_org:{n_org}, f_fundation:{f_fundation}})", jestructure["Organization"])
+        org.append(jestructure["Organization"]["n_org"])    
+    session.run("MATCH (s:Event {id:{id}})"+
+                "MATCH (o:Organization {n_org:{n_org}})"+
+                "MERGE (o)-[cau:cause]-> (s)",{"id":jestructure["Event"]["id"],"n_org":jestructure["Organization"]["n_org"].encode('UTF-8')})
+    json = {"id":jestructure["Event"]["id"],"n_site":jestructure["Site"]["n_site"].encode('UTF-8')}    
+    retorno = session.run("MATCH (s1:Event {id:{id}})"+
+                "MATCH (l:Site {n_site:{n_site}})"+
+                "MERGE (s1)-[happ:happenedIn]-> (l) return l.n_site AS retorno",json)
+    cont = 0
+    for item in retorno:
+        cont += 1
+    if cont == 0:
+        pass #print json
+    
 
 def borrarDatos():
     session = driver.session()
     try:
+        print "Inicia la eliminacion de datos..."        
         session.run("MATCH (n) DETACH DELETE n")
-        print "Borrando datos..."
-        
+        print "Datos eliminados"        
     except:
             print "Unexpected error to Delete"
 
 borrarDatos()
-#cargarDatos()
-
+cargarDatosDepto()

@@ -22,7 +22,7 @@ def addSet(root, json):
 		for i in range(0,len(json[subRoot])):				
 			print("sadd "+clave.encode("utf-8")+" " +json[subRoot][i].encode("utf-8"))
 			def function(redisClient):
-				return "Registros insertados: " + str(redisClient.sadd(clave,json[subRoot][i]))
+				return "Registros insertados: " + str(redisClient.sadd(clave,json[subRoot][i].encode("utf-8")))
 			print(sendRedis(function))
 def set(root, json):
 	for subRoot in json:
@@ -30,7 +30,7 @@ def set(root, json):
 		for i in range(0,len(json[subRoot])):				
 			print("set "+clave.encode("utf-8")+" " +json[subRoot][i].encode("utf-8"))
 			def function(redisClient):
-				return "Registros insertados: " + str(redisClient.set(clave,json[subRoot][i]))
+				return "Registros insertados: " + str(redisClient.set(clave,json[subRoot][i].encode("utf-8")))
 			print(sendRedis(function))
 
 def getSet(query):
@@ -43,13 +43,13 @@ def addString(root,json):
                 clave=subRoot
                 print("set "+clave.encode("utf-8")+" " +json[subRoot].encode("utf-8"))
                 def function(redisClient):
-                        return "Registros insertados: " + str(redisClient.set(clave,json[subRoot]))
+                        return "Registros insertados: " + str(redisClient.set(clave,json[subRoot].encode("utf-8")))
                 print(sendRedis(function))
 
 def cargarOntologia():
-	addSet("nodos", ontologia["nodos"]);		
-	addSet("relaciones", ontologia["relaciones"]);
-	addString("sinonimos", ontologia["sinonimos"]);
-	set("sinonimos_atr", ontologia["sinonimos_atr"]);
+	addSet("nodes", ontologia["nodes"]);		
+	addSet("relations", ontologia["relations"]);
+	addString("synonymous", ontologia["synonymous"]);
+	set("synonymous_atr", ontologia["synonymous_atr"]);
 
 cargarOntologia()
