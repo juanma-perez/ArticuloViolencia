@@ -1,24 +1,26 @@
 {
-	"nodos":{
-		"Persona":["f_nacimiento","f_fallecimiento","n_persona","alias"],
-		"Organización":["f_fundacion","n_org"],
-		"Suceso":["dia_suceso","mes_suceso","a\u00F1o_suceso","n_suceso","sinopsis","t_hecho"],
-		"Lugar":["n_lugar","t_lugar","t_area"],
-		"Fuente":["detalle"]
+	"nodes":{
+		"Person":["f_birth","f_death","n_person","alias"],
+		"Organization":["f_fundation","n_org"],
+		"Event":["day_event","month_event","year_event","n_event","synopsis","t_event", "id"],
+		"Site":["n_site","t_site","t_area"],
+		"Source":["description"]
 	},
-	"sinonimos_atr":{
-		"Dia":["Suceso:dia_suceso"],
-		"Mes":["Suceso:mes_suceso"]
+	"synonymous_atr":{
+		"Dia":["Event:day_event"],
+		"Mes":["Event:month_event"],
+		"A\u00F1o":["Event:year_event"],
+		"Municipio":["Site:n_site"],
+		"Tipo implicado":["Organization:n_org"]
 	},
-	"relaciones":{
-		"persona:organizacion":["victima","jefe","miembro"],
-		"organizacion:organizacion":["origina","seCompone"],
-		"organizacion:suceso":["ocasiona","esAfectado"],
-		"suceso:fuente":["referencia"],
-		"suceso:lugar":["sucedi\u00F3En"],
-		"lugar:lugar":["seConforma"]
-	},
-	"sinonimos":{
+	"relations":{
+		"person:organization":["victim","boss","member"],
+		"organization:organization":["originate","consist"],
+		"organization:event":["cause","isAfected"],
+		"event:source":["reference"],
+		"event:site":["happenedIn"],
+		"site:site":["consist"]
+	},		"synonymous":{
 		"Cesar": "C\u00e9sar" ,
 		"Choco": "Choc\u00f3",
 		"Venezuela (Exterior)": "Venezuela" ,

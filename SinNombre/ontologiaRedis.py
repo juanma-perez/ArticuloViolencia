@@ -47,9 +47,9 @@ def addString(root,json):
                 print(sendRedis(function))
 
 def cargarOntologia():
-	addSet("nodos", ontologia["nodos"]);		
-	addSet("relaciones", ontologia["relaciones"]);
-	addString("sinonimos", ontologia["sinonimos"]);
-	set("sinonimos_atr", ontologia["sinonimos_atr"]);
+	addSet("nodes", ontologia["nodes"]);		
+	addSet("relations", ontologia["relations"]);
+	addString("synonymous", ontologia["synonymous"]);
+	set("synonymous_atr", ontologia["synonymous_atr"]);
 
 cargarOntologia()

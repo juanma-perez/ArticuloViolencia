@@ -3,6 +3,7 @@
 import json 
 import redis
 import Charmer
+import prubaneo4j
 from FileManager import FileManager
 fileManager = FileManager()
 ontologia = fileManager.leerJson("ontologia.json")
@@ -24,7 +25,7 @@ def get(query):
 def crearStructure():
 	dic = {}
 	def function(redisClient):
-		for nodo in redisClient.keys("nodos:*"):
+		for nodo in redisClient.keys("nodes:*"):
 			temp = {} 
 			for atributo in getSet(nodo):
 				temp[atributo]= ""
@@ -33,19 +34,40 @@ def crearStructure():
 	return sendRedis(function)
 structure = crearStructure()
 
-def fillStructure(json):
+def compareSinonimo(palabra):
+	sinonimo = get("synonymous:" + palabra)
+	if sinonimo != None:
+		return sinonimo
+	else:
+		return palabra
+
+def fillStructure(json, t_hecho, id):
 	for key in json.keys():
-		if get("sinonimos_atr:" + key) != None:
-			arr = Charmer.getArray(":",get("sinonimos_atr:" + key))
+		atr = get("synonymous_atr:" + key)
+		if atr != None:
+			arr = Charmer.getArray(":",atr)
+			"""if len(arr) == 1:
+				structure[arr[0]]= compareSinonimo(json[key])
+			if len(arr) == 2:
+				structure[arr[0]][arr[1]]= compareSinonimo(json[key])"""
 			if len(arr) == 1:
 				structure[arr[0]]= json[key]
 			if len(arr) == 2:
 				structure[arr[0]][arr[1]]= json[key]
-		
-def readFile(file):
-	with fileManager.readFileGenerated(file) as file:
-		for line in file:
-			fillStructure(json.loads(line))
-			print structure
+		structure["Event"]["t_event"] = t_hecho
+		structure["Event"]["id"] = id
 
-readFile("Masacres1980-2012.json")
+def readFile(file, t_hecho):
+	with fileManager.readFileGenerated(file) as file:
+		cont = 1
+		for line in file:
+			#if cont == 1000:
+			#	break;	
+			if cont%100 == 0:
+				print cont 		
+			fillStructure(json.loads(line),t_hecho, cont)
+			prubaneo4j.cargarEstructura(structure)
+			cont+=1
+
+readFile("Masacres1980-2012.json", "masacre")
+

@@ -1,0 +1,18 @@
+Consultas: 
+
+Esquema general
+	MATCH p=(o:Organization)-[*]->(b)<-[*]-(z:Event) RETURN p
+Grupos armados que actuaron en determinado departamento
+	MATCH p=(l:Site {n_site:'Antioquia'})-[*]->(b)<-[*]-() RETURN p
+
+Departamento con mayor cantidad de succesos
+	MATCH p=(l:Site)-[*]->(b)<-[*]-(z:Event) RETURN p
+
+-> Grupos armados con mayor área de acción
+	MATCH p=(l:Organization)-[*]->(b)<-[*]-(s:Site) RETURN p
+
+-> Actividad cada municipio
+	MATCH p=(l:Event)-[*]->(b) RETURN p
+
+
+
