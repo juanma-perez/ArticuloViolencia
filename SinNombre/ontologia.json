@@ -3,7 +3,7 @@
 		"Person":["f_birth","f_death","n_person","alias"],
 		"Organization":["f_fundation","n_org"],
 		"Event":["day_event","month_event","year_event","n_event","synopsis","t_event"],
-		"Site":["n_site","t_site","t_area"],
+		"Site":["n_site","t_site","t_area","up_level"],
 		"Source":["description"]
 	},
 	"synonymous_atr":{
@@ -11,6 +11,7 @@
 		"Mes":["Event:month_event"],
 		"A\u00F1o":["Event:year_event"],
 		"Municipio":["Site:n_site"],
+		"Departamento":["Site:up_level"],
 		"Tipo implicado":["Organization:n_org"]
 	},
 	"relations":{

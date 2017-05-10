@@ -40,23 +40,31 @@ def cargarEstructura(jestructure):
     session = driver.session()    
     #"dia_suceso","mes_suceso","a\u00F1o_sucesceso","sinopsis","t_hecho" in org:
     session.run("CREATE (suceso:Event {day_event:{day_event},month_event:{month_event},year_event:{year_event}, synopsis:{synopsis}, t_event:{t_event}, n_event:{n_event}, id:{id}})", jestructure["Event"])
-    if jestructure["Organization"]["n_org"] in org:
-        pass
-    else:
-        session.run("CREATE (organizacion:Organization {n_org:{n_org}, f_fundation:{f_fundation}})", jestructure["Organization"])
-        org.append(jestructure["Organization"]["n_org"])    
-    session.run("MATCH (s:Event {id:{id}})"+
-                "MATCH (o:Organization {n_org:{n_org}})"+
-                "MERGE (o)-[cau:cause]-> (s)",{"id":jestructure["Event"]["id"],"n_org":jestructure["Organization"]["n_org"].encode('UTF-8')})
+    temp = jestructure["Organization"]["n_org"]
+    temp = temp.replace("Guerrilla-","")
+    temp = temp.replace("Guerrilla ","")
+    otro = temp.split(" y ")
+    for valor in otro:
+        valor2 = valor.split("-")
+        for item in valor2:
+            if item in org:
+                pass
+            else:
+                session.run("CREATE (organizacion:Organization {n_org:{n_org}})", {"n_org":item})
+                org.append(item)    
+            session.run("MATCH (s:Event {id:{id}})"+
+                        "MATCH (o:Organization {n_org:{n_org}})"+
+                        "MERGE (o)-[cau:cause]-> (s)",{"id":jestructure["Event"]["id"],"n_org":item.encode('UTF-8')})
     json = {"id":jestructure["Event"]["id"],"n_site":jestructure["Site"]["n_site"].encode('UTF-8')}    
     retorno = session.run("MATCH (s1:Event {id:{id}})"+
-                "MATCH (l:Site {n_site:{n_site}})"+
-                "MERGE (s1)-[happ:happenedIn]-> (l) return l.n_site AS retorno",json)
+            "MATCH (l:Site {n_site:{n_site}})"+
+            "MERGE (s1)-[happ:happenedIn]-> (l) return l.n_site AS retorno",json)
+
     cont = 0
     for item in retorno:
         cont += 1
     if cont == 0:
-        pass #print json
+        print jestructure["Site"]
     
 
 def borrarDatos():
@@ -68,5 +76,5 @@ def borrarDatos():
     except:
             print "Unexpected error to Delete"
 
-borrarDatos()
-cargarDatosDepto()
+#borrarDatos()
+#cargarDatosDepto()
