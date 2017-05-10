@@ -23,9 +23,9 @@ def cargarDatosDepto():
                                     "MATCH (v:Site {n_site:{mun}}) "+
                                     "MERGE (u)-[r:consist]->(v)",
                                     {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})
-                        result = session.run("MATCH (u:Site {n_site:{dept}}) "+
+                        """result = session.run("MATCH (u:Site {n_site:{dept}}) "+
                                              "MATCH (v:Site {n_site:{mun}}) RETURN u.n_site AS dept, v.n_site AS muni",
-                                             {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})
+                                             {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})"""
                         
                     """    for record in result:
                             straa = "%s %s" % (record["dept"], record["muni"]) + " Resultado de la insercion"
@@ -33,7 +33,7 @@ def cargarDatosDepto():
 
         print "Departamentos y municipios cargados"
     except:
-            print "Error en la carga de departamentos y municipios"
+        print "Error en la carga de departamentos y municipios"
    
 org = []
 def cargarEstructura(jestructure):
@@ -56,17 +56,25 @@ def cargarEstructura(jestructure):
                         "MATCH (o:Organization {n_org:{n_org}})"+
                         "MERGE (o)-[cau:cause]-> (s)",{"id":jestructure["Event"]["id"],"n_org":item.encode('UTF-8')})
     json = {"id":jestructure["Event"]["id"],"n_site":jestructure["Site"]["n_site"].encode('UTF-8')}    
-    retorno = session.run("MATCH (s1:Event {id:{id}})"+
-            "MATCH (l:Site {n_site:{n_site}})"+
-            "MERGE (s1)-[happ:happenedIn]-> (l) return l.n_site AS retorno",json)
-
+    retorno2 = session.run("MATCH (exis:Site {n_site:{n_site}}) return exis.n_site AS retorno",{"n_site":jestructure["Site"]["n_site"]})  
     cont = 0
+    for item in retorno2:
+        cont += 1
+    if cont == 0:
+        print "entra"
+        session.run("CREATE (m2:Site {n_site:{muni},t_site:'Municipio'})",{"muni":jestructure["Site"]["n_site"].encode('UTF-8')})
+        session.run("MATCH (u2:Site {n_site:{dept}}) "+
+                    "MATCH (v2:Site {n_site:{mun}}) "+
+                    "MERGE (u2)-[r:consist]->(v2)",
+                    {"mun":jestructure["Site"]["n_site"].encode('UTF-8'),"dept":jestructure["Site"]["up_level"].encode('UTF-8')})
+    retorno = session.run("MATCH (s1:Event {id:{id}})"+
+            "MATCH (l1:Site {n_site:{n_site}})"+
+            "MERGE (s1)-[happ:happenedIn]-> (l1) return l1.n_site AS retorno",json)
     for item in retorno:
         cont += 1
     if cont == 0:
         print jestructure["Site"]
     
-
 def borrarDatos():
     session = driver.session()
     try:
@@ -76,5 +84,5 @@ def borrarDatos():
     except:
             print "Unexpected error to Delete"
 
-#borrarDatos()
-#cargarDatosDepto()
+borrarDatos()
+cargarDatosDepto()

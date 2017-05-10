@@ -41,15 +41,20 @@ def compareSinonimo(palabra):
 	else:
 		return palabra
 
+def synonymous_atr():
+	def function(redisClient):
+		dic = {}
+		for item in redisClient.keys("synonymous_atr:*"):
+			dic[item.replace("synonymous_atr:","")]=get(item)
+		return dic
+	return sendRedis(function)
+
+synonymous = synonymous_atr()
+
 def fillStructure(json, t_hecho, id):
 	for key in json.keys():
-		atr = get("synonymous_atr:" + key)
-		if atr != None:
-			arr = Charmer.getArray(":",atr)
-			"""if len(arr) == 1:
-				structure[arr[0]]= compareSinonimo(json[key])
-			if len(arr) == 2:
-				structure[arr[0]][arr[1]]= compareSinonimo(json[key])"""
+		if synonymous.has_key(key.encode("utf-8")):
+			arr = Charmer.getArray(":",synonymous[key.encode("utf-8")].encode("utf-8"))
 			if len(arr) == 1:
 				structure[arr[0]]= json[key]
 			if len(arr) == 2:
@@ -61,13 +66,13 @@ def readFile(file, t_hecho):
 	with fileManager.readFileGenerated(file) as file:
 		cont = 1
 		for line in file:
-			#if cont == 1000:
-			#	break;	
+			if cont == 15:
+				break;	
 			if cont%100 == 0:
 				print cont 		
 			fillStructure(json.loads(line),t_hecho, cont)
 			prubaneo4j.cargarEstructura(structure)
 			cont+=1
 
-readFile("Masacres1980-2012.json", "masacre")
+readFile("MasacresFinal.json", "masacre")
 
