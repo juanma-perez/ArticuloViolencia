@@ -40,7 +40,6 @@ def cargarDatosDepto():
 org = []
 def cargarEstructura(jestructure):
     session = driver.session()    
-    #"dia_suceso","mes_suceso","a\u00F1o_sucesceso","sinopsis","t_hecho" in org:
     session.run("CREATE (suceso:Event {day_event:{day_event},month_event:{month_event},year_event:{year_event}, synopsis:{synopsis}, t_event:{t_event}, n_event:{n_event}, id:{id}})", jestructure["Event"])
     temp = jestructure["Organization"]["n_org"]
     temp = temp.replace("Guerrilla-","")
@@ -50,14 +49,15 @@ def cargarEstructura(jestructure):
     for valor in otro:
         valor2 = valor.split("-")
         for item in valor2:
-            if item in org:
-                pass
-            else:
-                tx.run("CREATE (organizacion:Organization {n_org:{n_org}})", {"n_org":item})
-                org.append(item)    
-                tx.run("MATCH (s:Event {id:{id}})"+
-                        "MATCH (o:Organization {n_org:{n_org}})"+
-                        "MERGE (o)-[cau:cause]-> (s)",{"id":jestructure["Event"]["id"],"n_org":item.encode('UTF-8')})
+            organizacion = tx.run("MATCH (org:Organization {n_org:{n_org}}) RETURN  org",{"n_org":item.encode('UTF-8')})                
+            cont = 0
+            for element in organizacion:
+                cont += 1
+            if cont == 0:
+                tx.run("CREATE (organizacion:Organization {n_org:{n_org}})", {"n_org":item.encode('UTF-8')})            
+            tx.run("MATCH (s:Event {id:{id}})"+
+                    "MATCH (o:Organization {n_org:{n_org}})"+
+                    "MERGE (o)-[cau:cause]-> (s)",{"id":jestructure["Event"]["id"],"n_org":item.encode('UTF-8')})
     json = {"id":jestructure["Event"]["id"],"n_site":jestructure["Site"]["n_site"].encode('UTF-8')}    
     retorno2 = tx.run("MATCH (exis:Site {n_site:{n_site}}) return exis.n_site AS retorno",{"n_site":jestructure["Site"]["n_site"]})  
     cont = 0
@@ -76,7 +76,7 @@ def cargarEstructura(jestructure):
     if cont == 0:
         print jestructure["Site"]
     session.commit_transaction()
-    session.close()
+    #session.close()
     
 def borrarDatos():
     session = driver.session()
@@ -87,5 +87,5 @@ def borrarDatos():
     except:
             print "Unexpected error to Delete"
 
-borrarDatos()
-cargarDatosDepto()
+#borrarDatos()
+#cargarDatosDepto()
