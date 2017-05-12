@@ -5,7 +5,7 @@ from tqdm import tqdm
 driver = GraphDatabase.driver("bolt://localhost:7687", auth=basic_auth("neo4j", "8112"))
 
 def cargarDatosDepto():
-        session = driver.session()
+    session = driver.session()
     try:
         with open('DeptosMuniColombia.json', 'r') as f:
             print ("Inicia carga de Departamentos y municipios")
@@ -64,12 +64,10 @@ def cargarEstructura(jestructure):
     for item in retorno2:
         cont += 1
     if cont == 0:
-        print "entra"
         tx.run("CREATE (m2:Site {n_site:{muni},t_site:'Municipio'})",{"muni":jestructure["Site"]["n_site"].encode('UTF-8')})
-        json = {"mun":jestructure["Site"]["n_site"].encode('UTF-8'),"dept":jestructure["Site"]["up_level"].encode('UTF-8')}
         tx.run("MATCH (u2:Site {n_site:{dept}}) "+
                     "MATCH (v2:Site {n_site:{mun}}) "+
-                    "MERGE (u2)-[r:consist]->(v2)",json)
+                    "MERGE (u2)-[r:consist]->(v2)",{"mun":jestructure["Site"]["n_site"].encode('UTF-8'),"dept":jestructure["Site"]["up_level"].encode('UTF-8')})
     retorno = tx.run("MATCH (s1:Event {id:{id}})"+
             "MATCH (l1:Site {n_site:{n_site}})"+
             "MERGE (s1)-[happ:happenedIn]-> (l1) return l1.n_site AS retorno",json)
@@ -78,7 +76,7 @@ def cargarEstructura(jestructure):
     if cont == 0:
         print jestructure["Site"]
     session.commit_transaction()
-    #session.close()
+    session.close()
     
 def borrarDatos():
     session = driver.session()

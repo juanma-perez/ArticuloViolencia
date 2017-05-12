@@ -67,7 +67,7 @@ def readFile(file, t_hecho):
 		cont = 1
 		for line in file:
 			if cont == 15:
-				break;	
+				pass;	
 			if cont%100 == 0:
 				print cont 		
 			fillStructure(json.loads(line),t_hecho, cont)
