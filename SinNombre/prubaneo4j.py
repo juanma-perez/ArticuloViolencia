@@ -5,11 +5,12 @@ from tqdm import tqdm
 driver = GraphDatabase.driver("bolt://localhost:7687", auth=basic_auth("neo4j", "8112"))
 
 def cargarDatosDepto():
-    session = driver.session()
+        session = driver.session()
     try:
         with open('DeptosMuniColombia.json', 'r') as f:
             print ("Inicia carga de Departamentos y municipios")
             lineas  = tqdm(f.readlines())
+            tx=session.begin_transaction()
             for line in lineas:
                 doc = json.loads(line)  
                 session.run("CREATE (d:Site {n_site:{depto},t_site:'Departamento'})",
@@ -18,8 +19,8 @@ def cargarDatosDepto():
                 if(doc.has_key('Municipios')):
                     for item in doc['Municipios']:
                         #print item.encode('UTF-8')
-                        session.run("CREATE (m:Site {n_site:{muni},t_site:'Municipio'})",{"muni":item.encode('UTF-8')})
-                        session.run("MATCH (u:Site {n_site:{dept}}) "+
+                        tx.run("CREATE (m:Site {n_site:{muni},t_site:'Municipio'})",{"muni":item.encode('UTF-8')})
+                        tx.run("MATCH (u:Site {n_site:{dept}}) "+
                                     "MATCH (v:Site {n_site:{mun}}) "+
                                     "MERGE (u)-[r:consist]->(v)",
                                     {"mun":item.encode('UTF-8'),"dept":doc['Nombre'].encode('UTF-8')})
@@ -30,7 +31,8 @@ def cargarDatosDepto():
                     """    for record in result:
                             straa = "%s %s" % (record["dept"], record["muni"]) + " Resultado de la insercion"
                             print(straa.encode('UTF-8'))"""
-
+            session.commit_transaction()
+            session.close()
         print "Departamentos y municipios cargados"
     except:
         print "Error en la carga de departamentos y municipios"
@@ -44,36 +46,39 @@ def cargarEstructura(jestructure):
     temp = temp.replace("Guerrilla-","")
     temp = temp.replace("Guerrilla ","")
     otro = temp.split(" y ")
+    tx=session.begin_transaction()
     for valor in otro:
         valor2 = valor.split("-")
         for item in valor2:
             if item in org:
                 pass
             else:
-                session.run("CREATE (organizacion:Organization {n_org:{n_org}})", {"n_org":item})
+                tx.run("CREATE (organizacion:Organization {n_org:{n_org}})", {"n_org":item})
                 org.append(item)    
-            session.run("MATCH (s:Event {id:{id}})"+
+                tx.run("MATCH (s:Event {id:{id}})"+
                         "MATCH (o:Organization {n_org:{n_org}})"+
                         "MERGE (o)-[cau:cause]-> (s)",{"id":jestructure["Event"]["id"],"n_org":item.encode('UTF-8')})
     json = {"id":jestructure["Event"]["id"],"n_site":jestructure["Site"]["n_site"].encode('UTF-8')}    
-    retorno2 = session.run("MATCH (exis:Site {n_site:{n_site}}) return exis.n_site AS retorno",{"n_site":jestructure["Site"]["n_site"]})  
+    retorno2 = tx.run("MATCH (exis:Site {n_site:{n_site}}) return exis.n_site AS retorno",{"n_site":jestructure["Site"]["n_site"]})  
     cont = 0
     for item in retorno2:
         cont += 1
     if cont == 0:
         print "entra"
-        session.run("CREATE (m2:Site {n_site:{muni},t_site:'Municipio'})",{"muni":jestructure["Site"]["n_site"].encode('UTF-8')})
-        session.run("MATCH (u2:Site {n_site:{dept}}) "+
+        tx.run("CREATE (m2:Site {n_site:{muni},t_site:'Municipio'})",{"muni":jestructure["Site"]["n_site"].encode('UTF-8')})
+        json = {"mun":jestructure["Site"]["n_site"].encode('UTF-8'),"dept":jestructure["Site"]["up_level"].encode('UTF-8')}
+        tx.run("MATCH (u2:Site {n_site:{dept}}) "+
                     "MATCH (v2:Site {n_site:{mun}}) "+
-                    "MERGE (u2)-[r:consist]->(v2)",
-                    {"mun":jestructure["Site"]["n_site"].encode('UTF-8'),"dept":jestructure["Site"]["up_level"].encode('UTF-8')})
-    retorno = session.run("MATCH (s1:Event {id:{id}})"+
+                    "MERGE (u2)-[r:consist]->(v2)",json)
+    retorno = tx.run("MATCH (s1:Event {id:{id}})"+
             "MATCH (l1:Site {n_site:{n_site}})"+
             "MERGE (s1)-[happ:happenedIn]-> (l1) return l1.n_site AS retorno",json)
     for item in retorno:
         cont += 1
     if cont == 0:
         print jestructure["Site"]
+    session.commit_transaction()
+    #session.close()
     
 def borrarDatos():
     session = driver.session()
